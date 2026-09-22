@@ -1,0 +1,22 @@
+model: yolov8m.pt
+confidence: 0.35
+iou: 0.50
+device: auto
+imgsz: 1280
+
+pitch:
+  length_m: 105.0
+  width_m: 68.0
+  image_points:
+    - [4, 59]
+    - [351, 60]
+    - [348, 472]
+    - [7, 469]
+
+team:
+  min_crop_pixels: 80
+
+output:
+  tactical_width: 700
+  tactical_height: 460
+  fps: 25
