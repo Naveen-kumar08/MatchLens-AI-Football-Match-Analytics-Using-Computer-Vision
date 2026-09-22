@@ -1,0 +1,7617 @@
+{
+  "title": "MatchLens AI Automated Match Report",
+  "notes": [
+    "Metrics are computer-vision estimates and depend on tracking and calibration quality."
+  ],
+  "events": [
+    {
+      "frame": 5,
+      "event": "high_speed_run_candidate",
+      "track_id": 1,
+      "team": 1.0,
+      "speed_kmh": 38.4480168539287
+    },
+    {
+      "frame": 6,
+      "event": "high_speed_run_candidate",
+      "track_id": 1,
+      "team": 1.0,
+      "speed_kmh": 34.06948781534592
+    },
+    {
+      "frame": 13,
+      "event": "high_speed_run_candidate",
+      "track_id": 1,
+      "team": 1.0,
+      "speed_kmh": 26.16199533674791
+    },
+    {
+      "frame": 18,
+      "event": "high_speed_run_candidate",
+      "track_id": 1,
+      "team": 1.0,
+      "speed_kmh": 36.94387635319266
+    },
+    {
+      "frame": 23,
+      "event": "high_speed_run_candidate",
+      "track_id": 1,
+      "team": 1.0,
+      "speed_kmh": 37.17337757051415
+    },
+    {
+      "frame": 24,
+      "event": "high_speed_run_candidate",
+      "track_id": 1,
+      "team": 1.0,
+      "speed_kmh": 30.652895458667487
+    },
+    {
+      "frame": 28,
+      "event": "high_speed_run_candidate",
+      "track_id": 1,
+      "team": 1.0,
+      "speed_kmh": 36.14595413044195
+    },
+    {
+      "frame": 42,
+      "event": "high_speed_run_candidate",
+      "track_id": 1,
+      "team": 1.0,
+      "speed_kmh": 37.46638493369784
+    },
+    {
+      "frame": 43,
+      "event": "high_speed_run_candidate",
+      "track_id": 1,
+      "team": 1.0,
+      "speed_kmh": 25.006399181009275
+    },
+    {
+      "frame": 52,
+      "event": "high_speed_run_candidate",
+      "track_id": 1,
+      "team": 1.0,
+      "speed_kmh": 27.20918962409584
+    },
+    {
+      "frame": 3,
+      "event": "high_speed_run_candidate",
+      "track_id": 2,
+      "team": 1.0,
+      "speed_kmh": 22.66142096162552
+    },
+    {
+      "frame": 5,
+      "event": "high_speed_run_candidate",
+      "track_id": 2,
+      "team": 1.0,
+      "speed_kmh": 20.69999999999972
+    },
+    {
+      "frame": 9,
+      "event": "high_speed_run_candidate",
+      "track_id": 2,
+      "team": 1.0,
+      "speed_kmh": 20.778113485107266
+    },
+    {
+      "frame": 13,
+      "event": "high_speed_run_candidate",
+      "track_id": 2,
+      "team": 1.0,
+      "speed_kmh": 28.92628562397876
+    },
+    {
+      "frame": 17,
+      "event": "high_speed_run_candidate",
+      "track_id": 2,
+      "team": 1.0,
+      "speed_kmh": 18.22361105818449
+    },
+    {
+      "frame": 18,
+      "event": "high_speed_run_candidate",
+      "track_id": 2,
+      "team": 1.0,
+      "speed_kmh": 22.137072977248376
+    },
+    {
+      "frame": 21,
+      "event": "high_speed_run_candidate",
+      "track_id": 2,
+      "team": 1.0,
+      "speed_kmh": 22.5539353550548
+    },
+    {
+      "frame": 23,
+      "event": "high_speed_run_candidate",
+      "track_id": 2,
+      "team": 1.0,
+      "speed_kmh": 18.55397531527904
+    },
+    {
+      "frame": 25,
+      "event": "high_speed_run_candidate",
+      "track_id": 2,
+      "team": 1.0,
+      "speed_kmh": 19.820443990990867
+    },
+    {
+      "frame": 30,
+      "event": "high_speed_run_candidate",
+      "track_id": 2,
+      "team": 1.0,
+      "speed_kmh": 29.31569545482433
+    },
+    {
+      "frame": 34,
+      "event": "high_speed_run_candidate",
+      "track_id": 2,
+      "team": 1.0,
+      "speed_kmh": 21.08767412494828
+    },
+    {
+      "frame": 37,
+      "event": "high_speed_run_candidate",
+      "track_id": 2,
+      "team": 1.0,
+      "speed_kmh": 18.921416437465723
+    },
+    {
+      "frame": 38,
+      "event": "high_speed_run_candidate",
+      "track_id": 2,
+      "team": 1.0,
+      "speed_kmh": 28.856195175386564
+    },
+    {
+      "frame": 39,
+      "event": "high_speed_run_candidate",
+      "track_id": 2,
+      "team": 1.0,
+      "speed_kmh": 31.807074684730093
+    },
+    {
+      "frame": 41,
+      "event": "high_speed_run_candidate",
+      "track_id": 2,
+      "team": 1.0,
+      "speed_kmh": 34.38895171417662
+    },
+    {
+      "frame": 43,
+      "event": "high_speed_run_candidate",
+      "track_id": 2,
+      "team": 1.0,
+      "speed_kmh": 20.719555979798784
+    },
+    {
+      "frame": 46,
+      "event": "high_speed_run_candidate",
+      "track_id": 2,
+      "team": 1.0,
+      "speed_kmh": 22.341944857151663
+    },
+    {
+      "frame": 47,
+      "event": "high_speed_run_candidate",
+      "track_id": 2,
+      "team": 1.0,
+      "speed_kmh": 31.61550252645067
+    },
+    {
+      "frame": 48,
+      "event": "high_speed_run_candidate",
+      "track_id": 2,
+      "team": 1.0,
+      "speed_kmh": 21.3358852640335
+    },
+    {
+      "frame": 52,
+      "event": "high_speed_run_candidate",
+      "track_id": 2,
+      "team": 1.0,
+      "speed_kmh": 22.571885167171807
+    },
+    {
+      "frame": 62,
+      "event": "high_speed_run_candidate",
+      "track_id": 2,
+      "team": 1.0,
+      "speed_kmh": 23.55267500731076
+    },
+    {
+      "frame": 68,
+      "event": "high_speed_run_candidate",
+      "track_id": 2,
+      "team": 1.0,
+      "speed_kmh": 33.698961408328515
+    },
+    {
+      "frame": 69,
+      "event": "high_speed_run_candidate",
+      "track_id": 2,
+      "team": 1.0,
+      "speed_kmh": 39.44629260146019
+    },
+    {
+      "frame": 2,
+      "event": "high_speed_run_candidate",
+      "track_id": 3,
+      "team": 1.0,
+      "speed_kmh": 18.98552079875625
+    },
+    {
+      "frame": 15,
+      "event": "high_speed_run_candidate",
+      "track_id": 3,
+      "team": 1.0,
+      "speed_kmh": 35.932436599819404
+    },
+    {
+      "frame": 22,
+      "event": "high_speed_run_candidate",
+      "track_id": 3,
+      "team": 1.0,
+      "speed_kmh": 18.553975315278976
+    },
+    {
+      "frame": 26,
+      "event": "high_speed_run_candidate",
+      "track_id": 3,
+      "team": 1.0,
+      "speed_kmh": 23.469128658729968
+    },
+    {
+      "frame": 28,
+      "event": "high_speed_run_candidate",
+      "track_id": 3,
+      "team": 1.0,
+      "speed_kmh": 35.38728585240752
+    },
+    {
+      "frame": 31,
+      "event": "high_speed_run_candidate",
+      "track_id": 3,
+      "team": 1.0,
+      "speed_kmh": 33.81892961050083
+    },
+    {
+      "frame": 34,
+      "event": "high_speed_run_candidate",
+      "track_id": 3,
+      "team": 1.0,
+      "speed_kmh": 32.71100732169525
+    },
+    {
+      "frame": 35,
+      "event": "high_speed_run_candidate",
+      "track_id": 3,
+      "team": 1.0,
+      "speed_kmh": 33.31215994197841
+    },
+    {
+      "frame": 38,
+      "event": "high_speed_run_candidate",
+      "track_id": 3,
+      "team": 1.0,
+      "speed_kmh": 33.391765451979595
+    },
+    {
+      "frame": 39,
+      "event": "high_speed_run_candidate",
+      "track_id": 3,
+      "team": 1.0,
+      "speed_kmh": 31.51285452002035
+    },
+    {
+      "frame": 41,
+      "event": "high_speed_run_candidate",
+      "track_id": 3,
+      "team": 1.0,
+      "speed_kmh": 29.48101083748645
+    },
+    {
+      "frame": 42,
+      "event": "high_speed_run_candidate",
+      "track_id": 3,
+      "team": 1.0,
+      "speed_kmh": 21.392755783208266
+    },
+    {
+      "frame": 48,
+      "event": "high_speed_run_candidate",
+      "track_id": 3,
+      "team": 1.0,
+      "speed_kmh": 27.72525924134921
+    },
+    {
+      "frame": 57,
+      "event": "high_speed_run_candidate",
+      "track_id": 3,
+      "team": 1.0,
+      "speed_kmh": 39.47708195903081
+    },
+    {
+      "frame": 68,
+      "event": "high_speed_run_candidate",
+      "track_id": 3,
+      "team": 1.0,
+      "speed_kmh": 39.11636486178067
+    },
+    {
+      "frame": 81,
+      "event": "high_speed_run_candidate",
+      "track_id": 3,
+      "team": 1.0,
+      "speed_kmh": 29.74115330648756
+    },
+    {
+      "frame": 110,
+      "event": "high_speed_run_candidate",
+      "track_id": 3,
+      "team": 1.0,
+      "speed_kmh": 35.50167134448861
+    },
+    {
+      "frame": 3,
+      "event": "high_speed_run_candidate",
+      "track_id": 4,
+      "team": 1.0,
+      "speed_kmh": 22.499999999999567
+    },
+    {
+      "frame": 4,
+      "event": "high_speed_run_candidate",
+      "track_id": 4,
+      "team": 1.0,
+      "speed_kmh": 37.842832874931744
+    },
+    {
+      "frame": 8,
+      "event": "high_speed_run_candidate",
+      "track_id": 4,
+      "team": 1.0,
+      "speed_kmh": 24.44953987297061
+    },
+    {
+      "frame": 16,
+      "event": "high_speed_run_candidate",
+      "track_id": 4,
+      "team": 1.0,
+      "speed_kmh": 28.814059068447857
+    },
+    {
+      "frame": 17,
+      "event": "high_speed_run_candidate",
+      "track_id": 4,
+      "team": 1.0,
+      "speed_kmh": 23.8287641307726
+    },
+    {
+      "frame": 18,
+      "event": "high_speed_run_candidate",
+      "track_id": 4,
+      "team": 1.0,
+      "speed_kmh": 24.149534156997216
+    },
+    {
+      "frame": 22,
+      "event": "high_speed_run_candidate",
+      "track_id": 4,
+      "team": 1.0,
+      "speed_kmh": 32.26220699208274
+    },
+    {
+      "frame": 30,
+      "event": "high_speed_run_candidate",
+      "track_id": 4,
+      "team": 1.0,
+      "speed_kmh": 33.09259735953014
+    },
+    {
+      "frame": 31,
+      "event": "high_speed_run_candidate",
+      "track_id": 4,
+      "team": 1.0,
+      "speed_kmh": 33.31215994197955
+    },
+    {
+      "frame": 34,
+      "event": "high_speed_run_candidate",
+      "track_id": 4,
+      "team": 1.0,
+      "speed_kmh": 26.46979410573493
+    },
+    {
+      "frame": 45,
+      "event": "high_speed_run_candidate",
+      "track_id": 4,
+      "team": 1.0,
+      "speed_kmh": 30.038974682901355
+    },
+    {
+      "frame": 48,
+      "event": "high_speed_run_candidate",
+      "track_id": 4,
+      "team": 1.0,
+      "speed_kmh": 24.48264691572353
+    },
+    {
+      "frame": 51,
+      "event": "high_speed_run_candidate",
+      "track_id": 4,
+      "team": 1.0,
+      "speed_kmh": 23.34801918793105
+    },
+    {
+      "frame": 52,
+      "event": "high_speed_run_candidate",
+      "track_id": 4,
+      "team": 1.0,
+      "speed_kmh": 27.07489612168457
+    },
+    {
+      "frame": 54,
+      "event": "high_speed_run_candidate",
+      "track_id": 4,
+      "team": 1.0,
+      "speed_kmh": 37.83480540454786
+    },
+    {
+      "frame": 59,
+      "event": "high_speed_run_candidate",
+      "track_id": 4,
+      "team": 1.0,
+      "speed_kmh": 27.37243138634169
+    },
+    {
+      "frame": 60,
+      "event": "high_speed_run_candidate",
+      "track_id": 4,
+      "team": 1.0,
+      "speed_kmh": 29.686360504447144
+    },
+    {
+      "frame": 68,
+      "event": "high_speed_run_candidate",
+      "track_id": 4,
+      "team": 1.0,
+      "speed_kmh": 38.44801685392915
+    },
+    {
+      "frame": 69,
+      "event": "high_speed_run_candidate",
+      "track_id": 4,
+      "team": 1.0,
+      "speed_kmh": 35.45588808646607
+    },
+    {
+      "frame": 84,
+      "event": "high_speed_run_candidate",
+      "track_id": 4,
+      "team": 1.0,
+      "speed_kmh": 28.2462386876552
+    },
+    {
+      "frame": 85,
+      "event": "high_speed_run_candidate",
+      "track_id": 4,
+      "team": 1.0,
+      "speed_kmh": 21.3358852640335
+    },
+    {
+      "frame": 88,
+      "event": "high_speed_run_candidate",
+      "track_id": 4,
+      "team": 1.0,
+      "speed_kmh": 28.2462386876558
+    },
+    {
+      "frame": 92,
+      "event": "high_speed_run_candidate",
+      "track_id": 4,
+      "team": 1.0,
+      "speed_kmh": 26.239283526803785
+    },
+    {
+      "frame": 93,
+      "event": "high_speed_run_candidate",
+      "track_id": 4,
+      "team": 1.0,
+      "speed_kmh": 23.22627822101508
+    },
+    {
+      "frame": 95,
+      "event": "high_speed_run_candidate",
+      "track_id": 4,
+      "team": 1.0,
+      "speed_kmh": 39.074928022966255
+    },
+    {
+      "frame": 97,
+      "event": "high_speed_run_candidate",
+      "track_id": 4,
+      "team": 1.0,
+      "speed_kmh": 25.61444904736373
+    },
+    {
+      "frame": 98,
+      "event": "high_speed_run_candidate",
+      "track_id": 4,
+      "team": 1.0,
+      "speed_kmh": 26.11551263138451
+    },
+    {
+      "frame": 102,
+      "event": "high_speed_run_candidate",
+      "track_id": 4,
+      "team": 1.0,
+      "speed_kmh": 36.40274714908209
+    },
+    {
+      "frame": 103,
+      "event": "high_speed_run_candidate",
+      "track_id": 4,
+      "team": 1.0,
+      "speed_kmh": 27.13466417702648
+    },
+    {
+      "frame": 108,
+      "event": "high_speed_run_candidate",
+      "track_id": 4,
+      "team": 1.0,
+      "speed_kmh": 34.27097897638749
+    },
+    {
+      "frame": 114,
+      "event": "high_speed_run_candidate",
+      "track_id": 4,
+      "team": 1.0,
+      "speed_kmh": 35.14612354158002
+    },
+    {
+      "frame": 117,
+      "event": "high_speed_run_candidate",
+      "track_id": 4,
+      "team": 1.0,
+      "speed_kmh": 39.36406991153221
+    },
+    {
+      "frame": 2,
+      "event": "high_speed_run_candidate",
+      "track_id": 5,
+      "team": 1.0,
+      "speed_kmh": 34.623691311008045
+    },
+    {
+      "frame": 6,
+      "event": "high_speed_run_candidate",
+      "track_id": 5,
+      "team": 1.0,
+      "speed_kmh": 23.96434852024967
+    },
+    {
+      "frame": 7,
+      "event": "high_speed_run_candidate",
+      "track_id": 5,
+      "team": 1.0,
+      "speed_kmh": 27.78362827277983
+    },
+    {
+      "frame": 9,
+      "event": "high_speed_run_candidate",
+      "track_id": 5,
+      "team": 1.0,
+      "speed_kmh": 27.13466417702616
+    },
+    {
+      "frame": 14,
+      "event": "high_speed_run_candidate",
+      "track_id": 5,
+      "team": 1.0,
+      "speed_kmh": 39.94621383810921
+    },
+    {
+      "frame": 15,
+      "event": "high_speed_run_candidate",
+      "track_id": 5,
+      "team": 1.0,
+      "speed_kmh": 30.454063768239504
+    },
+    {
+      "frame": 17,
+      "event": "high_speed_run_candidate",
+      "track_id": 5,
+      "team": 1.0,
+      "speed_kmh": 31.499999999999105
+    },
+    {
+      "frame": 19,
+      "event": "high_speed_run_candidate",
+      "track_id": 5,
+      "team": 1.0,
+      "speed_kmh": 22.228360263410885
+    },
+    {
+      "frame": 24,
+      "event": "high_speed_run_candidate",
+      "track_id": 5,
+      "team": 1.0,
+      "speed_kmh": 27.238942710759805
+    },
+    {
+      "frame": 26,
+      "event": "high_speed_run_candidate",
+      "track_id": 5,
+      "team": 1.0,
+      "speed_kmh": 36.54709290764451
+    },
+    {
+      "frame": 32,
+      "event": "high_speed_run_candidate",
+      "track_id": 5,
+      "team": 1.0,
+      "speed_kmh": 35.694957627094375
+    },
+    {
+      "frame": 40,
+      "event": "high_speed_run_candidate",
+      "track_id": 5,
+      "team": 1.0,
+      "speed_kmh": 38.28968529512888
+    },
+    {
+      "frame": 41,
+      "event": "high_speed_run_candidate",
+      "track_id": 5,
+      "team": 1.0,
+      "speed_kmh": 38.20497349822495
+    },
+    {
+      "frame": 42,
+      "event": "high_speed_run_candidate",
+      "track_id": 5,
+      "team": 1.0,
+      "speed_kmh": 24.581700510745776
+    },
+    {
+      "frame": 43,
+      "event": "high_speed_run_candidate",
+      "track_id": 5,
+      "team": 1.0,
+      "speed_kmh": 38.268524925845306
+    },
+    {
+      "frame": 47,
+      "event": "high_speed_run_candidate",
+      "track_id": 5,
+      "team": 1.0,
+      "speed_kmh": 22.517992805754265
+    },
+    {
+      "frame": 48,
+      "event": "high_speed_run_candidate",
+      "track_id": 5,
+      "team": 1.0,
+      "speed_kmh": 39.20943763942607
+    },
+    {
+      "frame": 49,
+      "event": "high_speed_run_candidate",
+      "track_id": 5,
+      "team": 1.0,
+      "speed_kmh": 29.75449545866964
+    },
+    {
+      "frame": 51,
+      "event": "high_speed_run_candidate",
+      "track_id": 5,
+      "team": 1.0,
+      "speed_kmh": 34.623691311008685
+    },
+    {
+      "frame": 54,
+      "event": "high_speed_run_candidate",
+      "track_id": 5,
+      "team": 1.0,
+      "speed_kmh": 35.66090296108627
+    },
+    {
+      "frame": 64,
+      "event": "high_speed_run_candidate",
+      "track_id": 5,
+      "team": 1.0,
+      "speed_kmh": 21.37855233639554
+    },
+    {
+      "frame": 65,
+      "event": "high_speed_run_candidate",
+      "track_id": 5,
+      "team": 1.0,
+      "speed_kmh": 34.62369131100932
+    },
+    {
+      "frame": 67,
+      "event": "high_speed_run_candidate",
+      "track_id": 5,
+      "team": 1.0,
+      "speed_kmh": 25.772077913897448
+    },
+    {
+      "frame": 72,
+      "event": "high_speed_run_candidate",
+      "track_id": 5,
+      "team": 1.0,
+      "speed_kmh": 33.78298388242231
+    },
+    {
+      "frame": 74,
+      "event": "high_speed_run_candidate",
+      "track_id": 5,
+      "team": 1.0,
+      "speed_kmh": 38.37421008959017
+    },
+    {
+      "frame": 305,
+      "event": "high_speed_run_candidate",
+      "track_id": 6,
+      "team": 1.0,
+      "speed_kmh": 24.316660954990976
+    },
+    {
+      "frame": 463,
+      "event": "high_speed_run_candidate",
+      "track_id": 6,
+      "team": 1.0,
+      "speed_kmh": 38.699999999999335
+    },
+    {
+      "frame": 707,
+      "event": "high_speed_run_candidate",
+      "track_id": 6,
+      "team": 1.0,
+      "speed_kmh": 18.022485955049685
+    },
+    {
+      "frame": 483,
+      "event": "high_speed_run_candidate",
+      "track_id": 7,
+      "team": 1.0,
+      "speed_kmh": 19.881649830937285
+    },
+    {
+      "frame": 488,
+      "event": "high_speed_run_candidate",
+      "track_id": 7,
+      "team": 1.0,
+      "speed_kmh": 18.985520798756166
+    },
+    {
+      "frame": 491,
+      "event": "high_speed_run_candidate",
+      "track_id": 7,
+      "team": 1.0,
+      "speed_kmh": 36.01124824273679
+    },
+    {
+      "frame": 493,
+      "event": "high_speed_run_candidate",
+      "track_id": 7,
+      "team": 1.0,
+      "speed_kmh": 34.19999999999991
+    },
+    {
+      "frame": 714,
+      "event": "high_speed_run_candidate",
+      "track_id": 7,
+      "team": 1.0,
+      "speed_kmh": 18.08977611801786
+    },
+    {
+      "frame": 797,
+      "event": "high_speed_run_candidate",
+      "track_id": 7,
+      "team": 1.0,
+      "speed_kmh": 18.9
+    },
+    {
+      "frame": 814,
+      "event": "high_speed_run_candidate",
+      "track_id": 7,
+      "team": 1.0,
+      "speed_kmh": 34.27097897638758
+    },
+    {
+      "frame": 851,
+      "event": "high_speed_run_candidate",
+      "track_id": 7,
+      "team": 1.0,
+      "speed_kmh": 19.82044399099061
+    },
+    {
+      "frame": 854,
+      "event": "high_speed_run_candidate",
+      "track_id": 7,
+      "team": 1.0,
+      "speed_kmh": 20.8753443085378
+    },
+    {
+      "frame": 858,
+      "event": "high_speed_run_candidate",
+      "track_id": 7,
+      "team": 1.0,
+      "speed_kmh": 19.091883092036863
+    },
+    {
+      "frame": 860,
+      "event": "high_speed_run_candidate",
+      "track_id": 7,
+      "team": 1.0,
+      "speed_kmh": 18.201373574540952
+    },
+    {
+      "frame": 180,
+      "event": "high_speed_run_candidate",
+      "track_id": 8,
+      "team": 1.0,
+      "speed_kmh": 24.449539872971144
+    },
+    {
+      "frame": 291,
+      "event": "high_speed_run_candidate",
+      "track_id": 8,
+      "team": 1.0,
+      "speed_kmh": 29.079889958526383
+    },
+    {
+      "frame": 461,
+      "event": "high_speed_run_candidate",
+      "track_id": 8,
+      "team": 1.0,
+      "speed_kmh": 29.079889958526287
+    },
+    {
+      "frame": 783,
+      "event": "high_speed_run_candidate",
+      "track_id": 8,
+      "team": 1.0,
+      "speed_kmh": 29.754495458669773
+    },
+    {
+      "frame": 784,
+      "event": "high_speed_run_candidate",
+      "track_id": 8,
+      "team": 1.0,
+      "speed_kmh": 23.41730129626381
+    },
+    {
+      "frame": 798,
+      "event": "high_speed_run_candidate",
+      "track_id": 8,
+      "team": 1.0,
+      "speed_kmh": 26.96998331478902
+    },
+    {
+      "frame": 805,
+      "event": "high_speed_run_candidate",
+      "track_id": 8,
+      "team": 1.0,
+      "speed_kmh": 21.087674124947984
+    },
+    {
+      "frame": 837,
+      "event": "high_speed_run_candidate",
+      "track_id": 8,
+      "team": 1.0,
+      "speed_kmh": 39.844698518121575
+    },
+    {
+      "frame": 529,
+      "event": "high_speed_run_candidate",
+      "track_id": 9,
+      "team": 2.0,
+      "speed_kmh": 18.08977611801786
+    },
+    {
+      "frame": 533,
+      "event": "high_speed_run_candidate",
+      "track_id": 9,
+      "team": 2.0,
+      "speed_kmh": 30.613232433050573
+    },
+    {
+      "frame": 536,
+      "event": "high_speed_run_candidate",
+      "track_id": 9,
+      "team": 2.0,
+      "speed_kmh": 31.512854520021
+    },
+    {
+      "frame": 708,
+      "event": "high_speed_run_candidate",
+      "track_id": 9,
+      "team": 2.0,
+      "speed_kmh": 28.85619517538654
+    },
+    {
+      "frame": 780,
+      "event": "high_speed_run_candidate",
+      "track_id": 9,
+      "team": 2.0,
+      "speed_kmh": 18.000000000000256
+    },
+    {
+      "frame": 803,
+      "event": "high_speed_run_candidate",
+      "track_id": 9,
+      "team": 2.0,
+      "speed_kmh": 20.625518175308944
+    },
+    {
+      "frame": 806,
+      "event": "high_speed_run_candidate",
+      "track_id": 9,
+      "team": 2.0,
+      "speed_kmh": 21.240762698170567
+    },
+    {
+      "frame": 412,
+      "event": "high_speed_run_candidate",
+      "track_id": 10,
+      "team": 1.0,
+      "speed_kmh": 28.814059068447204
+    },
+    {
+      "frame": 414,
+      "event": "high_speed_run_candidate",
+      "track_id": 10,
+      "team": 1.0,
+      "speed_kmh": 26.161995336748102
+    },
+    {
+      "frame": 518,
+      "event": "high_speed_run_candidate",
+      "track_id": 10,
+      "team": 1.0,
+      "speed_kmh": 23.40000000000046
+    },
+    {
+      "frame": 735,
+      "event": "high_speed_run_candidate",
+      "track_id": 10,
+      "team": 1.0,
+      "speed_kmh": 19.323819498225323
+    },
+    {
+      "frame": 739,
+      "event": "high_speed_run_candidate",
+      "track_id": 10,
+      "team": 1.0,
+      "speed_kmh": 26.115512631385
+    },
+    {
+      "frame": 742,
+      "event": "high_speed_run_candidate",
+      "track_id": 10,
+      "team": 1.0,
+      "speed_kmh": 26.65276721093008
+    },
+    {
+      "frame": 755,
+      "event": "high_speed_run_candidate",
+      "track_id": 10,
+      "team": 1.0,
+      "speed_kmh": 35.14612354158
+    },
+    {
+      "frame": 756,
+      "event": "high_speed_run_candidate",
+      "track_id": 10,
+      "team": 1.0,
+      "speed_kmh": 25.45584412271581
+    },
+    {
+      "frame": 783,
+      "event": "high_speed_run_candidate",
+      "track_id": 10,
+      "team": 1.0,
+      "speed_kmh": 34.20000000000087
+    },
+    {
+      "frame": 9,
+      "event": "high_speed_run_candidate",
+      "track_id": 14,
+      "team": 1.0,
+      "speed_kmh": 37.595877433570095
+    },
+    {
+      "frame": 23,
+      "event": "high_speed_run_candidate",
+      "track_id": 14,
+      "team": 1.0,
+      "speed_kmh": 39.61022595239765
+    },
+    {
+      "frame": 39,
+      "event": "high_speed_run_candidate",
+      "track_id": 14,
+      "team": 1.0,
+      "speed_kmh": 18.08977611801782
+    },
+    {
+      "frame": 44,
+      "event": "high_speed_run_candidate",
+      "track_id": 14,
+      "team": 1.0,
+      "speed_kmh": 27.07489612168427
+    },
+    {
+      "frame": 27,
+      "event": "high_speed_run_candidate",
+      "track_id": 18,
+      "team": 1.0,
+      "speed_kmh": 24.3
+    },
+    {
+      "frame": 31,
+      "event": "high_speed_run_candidate",
+      "track_id": 18,
+      "team": 1.0,
+      "speed_kmh": 35.14612354157993
+    },
+    {
+      "frame": 35,
+      "event": "high_speed_run_candidate",
+      "track_id": 18,
+      "team": 1.0,
+      "speed_kmh": 24.23324163210529
+    },
+    {
+      "frame": 37,
+      "event": "high_speed_run_candidate",
+      "track_id": 18,
+      "team": 1.0,
+      "speed_kmh": 30.038974682901515
+    },
+    {
+      "frame": 38,
+      "event": "high_speed_run_candidate",
+      "track_id": 18,
+      "team": 1.0,
+      "speed_kmh": 27.134664177026337
+    },
+    {
+      "frame": 39,
+      "event": "high_speed_run_candidate",
+      "track_id": 18,
+      "team": 1.0,
+      "speed_kmh": 19.983242980057057
+    },
+    {
+      "frame": 40,
+      "event": "high_speed_run_candidate",
+      "track_id": 18,
+      "team": 1.0,
+      "speed_kmh": 24.44953987297104
+    },
+    {
+      "frame": 73,
+      "event": "high_speed_run_candidate",
+      "track_id": 18,
+      "team": 1.0,
+      "speed_kmh": 36.9438763531925
+    },
+    {
+      "frame": 76,
+      "event": "high_speed_run_candidate",
+      "track_id": 18,
+      "team": 1.0,
+      "speed_kmh": 24.233241632105106
+    },
+    {
+      "frame": 78,
+      "event": "high_speed_run_candidate",
+      "track_id": 18,
+      "team": 1.0,
+      "speed_kmh": 28.46049894151521
+    },
+    {
+      "frame": 87,
+      "event": "high_speed_run_candidate",
+      "track_id": 18,
+      "team": 1.0,
+      "speed_kmh": 30.186917696247043
+    },
+    {
+      "frame": 91,
+      "event": "high_speed_run_candidate",
+      "track_id": 18,
+      "team": 1.0,
+      "speed_kmh": 24.29999999999964
+    },
+    {
+      "frame": 98,
+      "event": "high_speed_run_candidate",
+      "track_id": 18,
+      "team": 1.0,
+      "speed_kmh": 24.71315439194312
+    },
+    {
+      "frame": 104,
+      "event": "high_speed_run_candidate",
+      "track_id": 18,
+      "team": 1.0,
+      "speed_kmh": 22.26477037833544
+    },
+    {
+      "frame": 116,
+      "event": "high_speed_run_candidate",
+      "track_id": 18,
+      "team": 1.0,
+      "speed_kmh": 22.714973035423224
+    },
+    {
+      "frame": 121,
+      "event": "high_speed_run_candidate",
+      "track_id": 18,
+      "team": 1.0,
+      "speed_kmh": 31.60268975894277
+    },
+    {
+      "frame": 123,
+      "event": "high_speed_run_candidate",
+      "track_id": 18,
+      "team": 1.0,
+      "speed_kmh": 27.72525924134884
+    },
+    {
+      "frame": 124,
+      "event": "high_speed_run_candidate",
+      "track_id": 18,
+      "team": 1.0,
+      "speed_kmh": 23.67530358833908
+    },
+    {
+      "frame": 127,
+      "event": "high_speed_run_candidate",
+      "track_id": 18,
+      "team": 1.0,
+      "speed_kmh": 30.652895458667736
+    },
+    {
+      "frame": 128,
+      "event": "high_speed_run_candidate",
+      "track_id": 18,
+      "team": 1.0,
+      "speed_kmh": 33.626775046084745
+    },
+    {
+      "frame": 130,
+      "event": "high_speed_run_candidate",
+      "track_id": 18,
+      "team": 1.0,
+      "speed_kmh": 30.99451564390074
+    },
+    {
+      "frame": 135,
+      "event": "high_speed_run_candidate",
+      "track_id": 18,
+      "team": 1.0,
+      "speed_kmh": 18.46645607581528
+    },
+    {
+      "frame": 141,
+      "event": "high_speed_run_candidate",
+      "track_id": 18,
+      "team": 1.0,
+      "speed_kmh": 18.55397531527947
+    },
+    {
+      "frame": 144,
+      "event": "high_speed_run_candidate",
+      "track_id": 18,
+      "team": 1.0,
+      "speed_kmh": 36.28015986734303
+    },
+    {
+      "frame": 151,
+      "event": "high_speed_run_candidate",
+      "track_id": 18,
+      "team": 1.0,
+      "speed_kmh": 20.99142682144351
+    },
+    {
+      "frame": 153,
+      "event": "high_speed_run_candidate",
+      "track_id": 18,
+      "team": 1.0,
+      "speed_kmh": 31.306548835668007
+    },
+    {
+      "frame": 171,
+      "event": "high_speed_run_candidate",
+      "track_id": 18,
+      "team": 1.0,
+      "speed_kmh": 38.321403940877566
+    },
+    {
+      "frame": 49,
+      "event": "high_speed_run_candidate",
+      "track_id": 37,
+      "team": 1.0,
+      "speed_kmh": 27.958004220616257
+    },
+    {
+      "frame": 50,
+      "event": "high_speed_run_candidate",
+      "track_id": 37,
+      "team": 1.0,
+      "speed_kmh": 24.366575467225527
+    },
+    {
+      "frame": 58,
+      "event": "high_speed_run_candidate",
+      "track_id": 40,
+      "team": 1.0,
+      "speed_kmh": 34.447786576208166
+    },
+    {
+      "frame": 71,
+      "event": "high_speed_run_candidate",
+      "track_id": 44,
+      "team": 1.0,
+      "speed_kmh": 37.93903003504431
+    },
+    {
+      "frame": 73,
+      "event": "high_speed_run_candidate",
+      "track_id": 44,
+      "team": 1.0,
+      "speed_kmh": 38.06691476860185
+    },
+    {
+      "frame": 74,
+      "event": "high_speed_run_candidate",
+      "track_id": 44,
+      "team": 1.0,
+      "speed_kmh": 32.412497589664355
+    },
+    {
+      "frame": 75,
+      "event": "high_speed_run_candidate",
+      "track_id": 44,
+      "team": 1.0,
+      "speed_kmh": 30.038974682901515
+    },
+    {
+      "frame": 78,
+      "event": "high_speed_run_candidate",
+      "track_id": 44,
+      "team": 1.0,
+      "speed_kmh": 18.35647024893395
+    },
+    {
+      "frame": 80,
+      "event": "high_speed_run_candidate",
+      "track_id": 44,
+      "team": 1.0,
+      "speed_kmh": 22.22836026341143
+    },
+    {
+      "frame": 81,
+      "event": "high_speed_run_candidate",
+      "track_id": 44,
+      "team": 1.0,
+      "speed_kmh": 20.933466029303265
+    },
+    {
+      "frame": 82,
+      "event": "high_speed_run_candidate",
+      "track_id": 44,
+      "team": 1.0,
+      "speed_kmh": 34.27097897638776
+    },
+    {
+      "frame": 83,
+      "event": "high_speed_run_candidate",
+      "track_id": 44,
+      "team": 1.0,
+      "speed_kmh": 23.06881011235724
+    },
+    {
+      "frame": 86,
+      "event": "high_speed_run_candidate",
+      "track_id": 44,
+      "team": 1.0,
+      "speed_kmh": 22.94558781116754
+    },
+    {
+      "frame": 98,
+      "event": "high_speed_run_candidate",
+      "track_id": 44,
+      "team": 1.0,
+      "speed_kmh": 32.44996147917619
+    },
+    {
+      "frame": 99,
+      "event": "high_speed_run_candidate",
+      "track_id": 44,
+      "team": 1.0,
+      "speed_kmh": 31.55138665732408
+    },
+    {
+      "frame": 105,
+      "event": "high_speed_run_candidate",
+      "track_id": 44,
+      "team": 1.0,
+      "speed_kmh": 29.71363323459438
+    },
+    {
+      "frame": 106,
+      "event": "high_speed_run_candidate",
+      "track_id": 44,
+      "team": 1.0,
+      "speed_kmh": 18.98552079875613
+    },
+    {
+      "frame": 107,
+      "event": "high_speed_run_candidate",
+      "track_id": 44,
+      "team": 1.0,
+      "speed_kmh": 35.20369298809437
+    },
+    {
+      "frame": 109,
+      "event": "high_speed_run_candidate",
+      "track_id": 44,
+      "team": 1.0,
+      "speed_kmh": 25.614449047363934
+    },
+    {
+      "frame": 111,
+      "event": "high_speed_run_candidate",
+      "track_id": 44,
+      "team": 1.0,
+      "speed_kmh": 20.778113485107067
+    },
+    {
+      "frame": 114,
+      "event": "high_speed_run_candidate",
+      "track_id": 44,
+      "team": 1.0,
+      "speed_kmh": 36.99864862397016
+    },
+    {
+      "frame": 122,
+      "event": "high_speed_run_candidate",
+      "track_id": 44,
+      "team": 1.0,
+      "speed_kmh": 23.62392854713168
+    },
+    {
+      "frame": 124,
+      "event": "high_speed_run_candidate",
+      "track_id": 44,
+      "team": 1.0,
+      "speed_kmh": 25.26420392571252
+    },
+    {
+      "frame": 125,
+      "event": "high_speed_run_candidate",
+      "track_id": 44,
+      "team": 1.0,
+      "speed_kmh": 37.971041597512006
+    },
+    {
+      "frame": 127,
+      "event": "high_speed_run_candidate",
+      "track_id": 44,
+      "team": 1.0,
+      "speed_kmh": 18.72778684201632
+    },
+    {
+      "frame": 130,
+      "event": "high_speed_run_candidate",
+      "track_id": 44,
+      "team": 1.0,
+      "speed_kmh": 28.982235938588268
+    },
+    {
+      "frame": 131,
+      "event": "high_speed_run_candidate",
+      "track_id": 44,
+      "team": 1.0,
+      "speed_kmh": 25.772077913897512
+    },
+    {
+      "frame": 132,
+      "event": "high_speed_run_candidate",
+      "track_id": 44,
+      "team": 1.0,
+      "speed_kmh": 27.20918962409548
+    },
+    {
+      "frame": 135,
+      "event": "high_speed_run_candidate",
+      "track_id": 44,
+      "team": 1.0,
+      "speed_kmh": 38.69999999999997
+    },
+    {
+      "frame": 144,
+      "event": "high_speed_run_candidate",
+      "track_id": 44,
+      "team": 1.0,
+      "speed_kmh": 22.57188516717214
+    },
+    {
+      "frame": 148,
+      "event": "high_speed_run_candidate",
+      "track_id": 44,
+      "team": 1.0,
+      "speed_kmh": 30.56026832342917
+    },
+    {
+      "frame": 151,
+      "event": "high_speed_run_candidate",
+      "track_id": 44,
+      "team": 1.0,
+      "speed_kmh": 23.555254190944154
+    },
+    {
+      "frame": 155,
+      "event": "high_speed_run_candidate",
+      "track_id": 44,
+      "team": 1.0,
+      "speed_kmh": 25.455844122715803
+    },
+    {
+      "frame": 156,
+      "event": "high_speed_run_candidate",
+      "track_id": 44,
+      "team": 1.0,
+      "speed_kmh": 36.90000000000001
+    },
+    {
+      "frame": 162,
+      "event": "high_speed_run_candidate",
+      "track_id": 44,
+      "team": 1.0,
+      "speed_kmh": 35.10000000000005
+    },
+    {
+      "frame": 164,
+      "event": "high_speed_run_candidate",
+      "track_id": 44,
+      "team": 1.0,
+      "speed_kmh": 33.34861316456778
+    },
+    {
+      "frame": 166,
+      "event": "high_speed_run_candidate",
+      "track_id": 44,
+      "team": 1.0,
+      "speed_kmh": 18.553975315279622
+    },
+    {
+      "frame": 167,
+      "event": "high_speed_run_candidate",
+      "track_id": 44,
+      "team": 1.0,
+      "speed_kmh": 19.38659330568409
+    },
+    {
+      "frame": 168,
+      "event": "high_speed_run_candidate",
+      "track_id": 44,
+      "team": 1.0,
+      "speed_kmh": 30.718886698577013
+    },
+    {
+      "frame": 200,
+      "event": "high_speed_run_candidate",
+      "track_id": 44,
+      "team": 1.0,
+      "speed_kmh": 27.37243138634243
+    },
+    {
+      "frame": 202,
+      "event": "high_speed_run_candidate",
+      "track_id": 44,
+      "team": 1.0,
+      "speed_kmh": 25.21606630701888
+    },
+    {
+      "frame": 203,
+      "event": "high_speed_run_candidate",
+      "track_id": 44,
+      "team": 1.0,
+      "speed_kmh": 31.500000000000128
+    },
+    {
+      "frame": 204,
+      "event": "high_speed_run_candidate",
+      "track_id": 44,
+      "team": 1.0,
+      "speed_kmh": 36.72397037358586
+    },
+    {
+      "frame": 207,
+      "event": "high_speed_run_candidate",
+      "track_id": 44,
+      "team": 1.0,
+      "speed_kmh": 25.21606630701954
+    },
+    {
+      "frame": 213,
+      "event": "high_speed_run_candidate",
+      "track_id": 44,
+      "team": 1.0,
+      "speed_kmh": 31.61550252645003
+    },
+    {
+      "frame": 220,
+      "event": "high_speed_run_candidate",
+      "track_id": 44,
+      "team": 1.0,
+      "speed_kmh": 27.91451235468769
+    },
+    {
+      "frame": 232,
+      "event": "high_speed_run_candidate",
+      "track_id": 44,
+      "team": 1.0,
+      "speed_kmh": 35.111536565636136
+    },
+    {
+      "frame": 234,
+      "event": "high_speed_run_candidate",
+      "track_id": 44,
+      "team": 1.0,
+      "speed_kmh": 28.18882757405833
+    },
+    {
+      "frame": 235,
+      "event": "high_speed_run_candidate",
+      "track_id": 44,
+      "team": 1.0,
+      "speed_kmh": 23.34801918793077
+    },
+    {
+      "frame": 236,
+      "event": "high_speed_run_candidate",
+      "track_id": 44,
+      "team": 1.0,
+      "speed_kmh": 21.08767412494828
+    },
+    {
+      "frame": 239,
+      "event": "high_speed_run_candidate",
+      "track_id": 44,
+      "team": 1.0,
+      "speed_kmh": 29.686360504447297
+    },
+    {
+      "frame": 246,
+      "event": "high_speed_run_candidate",
+      "track_id": 44,
+      "team": 1.0,
+      "speed_kmh": 19.98324298005698
+    },
+    {
+      "frame": 247,
+      "event": "high_speed_run_candidate",
+      "track_id": 44,
+      "team": 1.0,
+      "speed_kmh": 22.51799280575424
+    },
+    {
+      "frame": 248,
+      "event": "high_speed_run_candidate",
+      "track_id": 44,
+      "team": 1.0,
+      "speed_kmh": 19.656296701057528
+    },
+    {
+      "frame": 249,
+      "event": "high_speed_run_candidate",
+      "track_id": 44,
+      "team": 1.0,
+      "speed_kmh": 39.732732098359406
+    },
+    {
+      "frame": 79,
+      "event": "high_speed_run_candidate",
+      "track_id": 49,
+      "team": 1.0,
+      "speed_kmh": 24.56521931512076
+    },
+    {
+      "frame": 81,
+      "event": "high_speed_run_candidate",
+      "track_id": 49,
+      "team": 1.0,
+      "speed_kmh": 24.957764322951864
+    },
+    {
+      "frame": 84,
+      "event": "high_speed_run_candidate",
+      "track_id": 49,
+      "team": 1.0,
+      "speed_kmh": 33.73499666518354
+    },
+    {
+      "frame": 93,
+      "event": "high_speed_run_candidate",
+      "track_id": 49,
+      "team": 1.0,
+      "speed_kmh": 27.41678318111033
+    },
+    {
+      "frame": 96,
+      "event": "high_speed_run_candidate",
+      "track_id": 49,
+      "team": 1.0,
+      "speed_kmh": 22.5987831530818
+    },
+    {
+      "frame": 102,
+      "event": "high_speed_run_candidate",
+      "track_id": 49,
+      "team": 1.0,
+      "speed_kmh": 30.99451564390074
+    },
+    {
+      "frame": 107,
+      "event": "high_speed_run_candidate",
+      "track_id": 49,
+      "team": 1.0,
+      "speed_kmh": 28.07725948165169
+    },
+    {
+      "frame": 108,
+      "event": "high_speed_run_candidate",
+      "track_id": 49,
+      "team": 1.0,
+      "speed_kmh": 27.13466417702616
+    },
+    {
+      "frame": 110,
+      "event": "high_speed_run_candidate",
+      "track_id": 49,
+      "team": 1.0,
+      "speed_kmh": 20.74397502890916
+    },
+    {
+      "frame": 111,
+      "event": "high_speed_run_candidate",
+      "track_id": 49,
+      "team": 1.0,
+      "speed_kmh": 33.602678464670625
+    },
+    {
+      "frame": 116,
+      "event": "high_speed_run_candidate",
+      "track_id": 49,
+      "team": 1.0,
+      "speed_kmh": 29.48101083748721
+    },
+    {
+      "frame": 119,
+      "event": "high_speed_run_candidate",
+      "track_id": 49,
+      "team": 1.0,
+      "speed_kmh": 29.38468989116616
+    },
+    {
+      "frame": 120,
+      "event": "high_speed_run_candidate",
+      "track_id": 49,
+      "team": 1.0,
+      "speed_kmh": 37.68195854782567
+    },
+    {
+      "frame": 121,
+      "event": "high_speed_run_candidate",
+      "track_id": 49,
+      "team": 1.0,
+      "speed_kmh": 18.553975315278976
+    },
+    {
+      "frame": 127,
+      "event": "high_speed_run_candidate",
+      "track_id": 49,
+      "team": 1.0,
+      "speed_kmh": 32.19937887599628
+    },
+    {
+      "frame": 128,
+      "event": "high_speed_run_candidate",
+      "track_id": 49,
+      "team": 1.0,
+      "speed_kmh": 36.10110801623736
+    },
+    {
+      "frame": 130,
+      "event": "high_speed_run_candidate",
+      "track_id": 49,
+      "team": 1.0,
+      "speed_kmh": 23.226278221014933
+    },
+    {
+      "frame": 133,
+      "event": "high_speed_run_candidate",
+      "track_id": 49,
+      "team": 1.0,
+      "speed_kmh": 36.7239703735853
+    },
+    {
+      "frame": 135,
+      "event": "high_speed_run_candidate",
+      "track_id": 49,
+      "team": 1.0,
+      "speed_kmh": 18.72778684201669
+    },
+    {
+      "frame": 146,
+      "event": "high_speed_run_candidate",
+      "track_id": 49,
+      "team": 1.0,
+      "speed_kmh": 27.074896121684457
+    },
+    {
+      "frame": 159,
+      "event": "high_speed_run_candidate",
+      "track_id": 49,
+      "team": 1.0,
+      "speed_kmh": 36.943876353192536
+    },
+    {
+      "frame": 72,
+      "event": "high_speed_run_candidate",
+      "track_id": 58,
+      "team": 1.0,
+      "speed_kmh": 18.46645607581481
+    },
+    {
+      "frame": 72,
+      "event": "high_speed_run_candidate",
+      "track_id": 60,
+      "team": 1.0,
+      "speed_kmh": 30.547012947259105
+    },
+    {
+      "frame": 73,
+      "event": "high_speed_run_candidate",
+      "track_id": 60,
+      "team": 1.0,
+      "speed_kmh": 30.07939494072304
+    },
+    {
+      "frame": 74,
+      "event": "high_speed_run_candidate",
+      "track_id": 60,
+      "team": 1.0,
+      "speed_kmh": 32.71100732169525
+    },
+    {
+      "frame": 75,
+      "event": "high_speed_run_candidate",
+      "track_id": 60,
+      "team": 1.0,
+      "speed_kmh": 29.31569545482424
+    },
+    {
+      "frame": 76,
+      "event": "high_speed_run_candidate",
+      "track_id": 60,
+      "team": 1.0,
+      "speed_kmh": 29.4810108374866
+    },
+    {
+      "frame": 77,
+      "event": "high_speed_run_candidate",
+      "track_id": 60,
+      "team": 1.0,
+      "speed_kmh": 27.72525924134861
+    },
+    {
+      "frame": 79,
+      "event": "high_speed_run_candidate",
+      "track_id": 60,
+      "team": 1.0,
+      "speed_kmh": 31.845250823317897
+    },
+    {
+      "frame": 81,
+      "event": "high_speed_run_candidate",
+      "track_id": 60,
+      "team": 1.0,
+      "speed_kmh": 22.94558781116705
+    },
+    {
+      "frame": 84,
+      "event": "high_speed_run_candidate",
+      "track_id": 60,
+      "team": 1.0,
+      "speed_kmh": 27.41678318111033
+    },
+    {
+      "frame": 86,
+      "event": "high_speed_run_candidate",
+      "track_id": 60,
+      "team": 1.0,
+      "speed_kmh": 18.532134253776643
+    },
+    {
+      "frame": 87,
+      "event": "high_speed_run_candidate",
+      "track_id": 60,
+      "team": 1.0,
+      "speed_kmh": 29.917386249470223
+    },
+    {
+      "frame": 101,
+      "event": "high_speed_run_candidate",
+      "track_id": 60,
+      "team": 1.0,
+      "speed_kmh": 38.710463701691154
+    },
+    {
+      "frame": 85,
+      "event": "high_speed_run_candidate",
+      "track_id": 61,
+      "team": 1.0,
+      "speed_kmh": 21.39275578320872
+    },
+    {
+      "frame": 90,
+      "event": "high_speed_run_candidate",
+      "track_id": 61,
+      "team": 1.0,
+      "speed_kmh": 38.18376618407411
+    },
+    {
+      "frame": 97,
+      "event": "high_speed_run_candidate",
+      "track_id": 61,
+      "team": 1.0,
+      "speed_kmh": 38.448016853929325
+    },
+    {
+      "frame": 99,
+      "event": "high_speed_run_candidate",
+      "track_id": 61,
+      "team": 1.0,
+      "speed_kmh": 31.241798923877763
+    },
+    {
+      "frame": 100,
+      "event": "high_speed_run_candidate",
+      "track_id": 61,
+      "team": 1.0,
+      "speed_kmh": 25.455844122715803
+    },
+    {
+      "frame": 105,
+      "event": "high_speed_run_candidate",
+      "track_id": 61,
+      "team": 1.0,
+      "speed_kmh": 23.77772066452134
+    },
+    {
+      "frame": 107,
+      "event": "high_speed_run_candidate",
+      "track_id": 61,
+      "team": 1.0,
+      "speed_kmh": 30.652895458667807
+    },
+    {
+      "frame": 112,
+      "event": "high_speed_run_candidate",
+      "track_id": 61,
+      "team": 1.0,
+      "speed_kmh": 19.800000000000537
+    },
+    {
+      "frame": 114,
+      "event": "high_speed_run_candidate",
+      "track_id": 61,
+      "team": 1.0,
+      "speed_kmh": 29.917386249471114
+    },
+    {
+      "frame": 116,
+      "event": "high_speed_run_candidate",
+      "track_id": 61,
+      "team": 1.0,
+      "speed_kmh": 31.705046916854847
+    },
+    {
+      "frame": 117,
+      "event": "high_speed_run_candidate",
+      "track_id": 61,
+      "team": 1.0,
+      "speed_kmh": 24.449539872971314
+    },
+    {
+      "frame": 118,
+      "event": "high_speed_run_candidate",
+      "track_id": 61,
+      "team": 1.0,
+      "speed_kmh": 23.55525419094479
+    },
+    {
+      "frame": 122,
+      "event": "high_speed_run_candidate",
+      "track_id": 61,
+      "team": 1.0,
+      "speed_kmh": 38.64763899645072
+    },
+    {
+      "frame": 125,
+      "event": "high_speed_run_candidate",
+      "track_id": 61,
+      "team": 1.0,
+      "speed_kmh": 37.10795063055935
+    },
+    {
+      "frame": 129,
+      "event": "high_speed_run_candidate",
+      "track_id": 61,
+      "team": 1.0,
+      "speed_kmh": 19.26084110312969
+    },
+    {
+      "frame": 135,
+      "event": "high_speed_run_candidate",
+      "track_id": 61,
+      "team": 1.0,
+      "speed_kmh": 29.31569545482424
+    },
+    {
+      "frame": 138,
+      "event": "high_speed_run_candidate",
+      "track_id": 61,
+      "team": 1.0,
+      "speed_kmh": 31.072817702938064
+    },
+    {
+      "frame": 165,
+      "event": "high_speed_run_candidate",
+      "track_id": 61,
+      "team": 1.0,
+      "speed_kmh": 37.43394181755346
+    },
+    {
+      "frame": 169,
+      "event": "high_speed_run_candidate",
+      "track_id": 61,
+      "team": 1.0,
+      "speed_kmh": 33.40928014788684
+    },
+    {
+      "frame": 170,
+      "event": "high_speed_run_candidate",
+      "track_id": 61,
+      "team": 1.0,
+      "speed_kmh": 30.59999999999963
+    },
+    {
+      "frame": 171,
+      "event": "high_speed_run_candidate",
+      "track_id": 61,
+      "team": 1.0,
+      "speed_kmh": 23.399999999999626
+    },
+    {
+      "frame": 173,
+      "event": "high_speed_run_candidate",
+      "track_id": 61,
+      "team": 1.0,
+      "speed_kmh": 29.38468989116576
+    },
+    {
+      "frame": 178,
+      "event": "high_speed_run_candidate",
+      "track_id": 61,
+      "team": 1.0,
+      "speed_kmh": 18.089776118017888
+    },
+    {
+      "frame": 91,
+      "event": "high_speed_run_candidate",
+      "track_id": 74,
+      "team": 1.0,
+      "speed_kmh": 39.73273209835989
+    },
+    {
+      "frame": 100,
+      "event": "high_speed_run_candidate",
+      "track_id": 74,
+      "team": 1.0,
+      "speed_kmh": 33.602678464669154
+    },
+    {
+      "frame": 102,
+      "event": "high_speed_run_candidate",
+      "track_id": 74,
+      "team": 1.0,
+      "speed_kmh": 19.75904856009025
+    },
+    {
+      "frame": 107,
+      "event": "high_speed_run_candidate",
+      "track_id": 74,
+      "team": 1.0,
+      "speed_kmh": 26.372303653643712
+    },
+    {
+      "frame": 110,
+      "event": "high_speed_run_candidate",
+      "track_id": 74,
+      "team": 1.0,
+      "speed_kmh": 24.29999999999964
+    },
+    {
+      "frame": 117,
+      "event": "high_speed_run_candidate",
+      "track_id": 74,
+      "team": 1.0,
+      "speed_kmh": 19.799999999999898
+    },
+    {
+      "frame": 119,
+      "event": "high_speed_run_candidate",
+      "track_id": 74,
+      "team": 1.0,
+      "speed_kmh": 37.50959877151557
+    },
+    {
+      "frame": 120,
+      "event": "high_speed_run_candidate",
+      "track_id": 74,
+      "team": 1.0,
+      "speed_kmh": 31.306548835668007
+    },
+    {
+      "frame": 121,
+      "event": "high_speed_run_candidate",
+      "track_id": 74,
+      "team": 1.0,
+      "speed_kmh": 25.21606630701952
+    },
+    {
+      "frame": 127,
+      "event": "high_speed_run_candidate",
+      "track_id": 74,
+      "team": 1.0,
+      "speed_kmh": 28.41777612692474
+    },
+    {
+      "frame": 128,
+      "event": "high_speed_run_candidate",
+      "track_id": 74,
+      "team": 1.0,
+      "speed_kmh": 26.57668150842055
+    },
+    {
+      "frame": 131,
+      "event": "high_speed_run_candidate",
+      "track_id": 74,
+      "team": 1.0,
+      "speed_kmh": 35.999999999999744
+    },
+    {
+      "frame": 134,
+      "event": "high_speed_run_candidate",
+      "track_id": 74,
+      "team": 1.0,
+      "speed_kmh": 31.499999999999744
+    },
+    {
+      "frame": 137,
+      "event": "high_speed_run_candidate",
+      "track_id": 74,
+      "team": 1.0,
+      "speed_kmh": 20.52315765178444
+    },
+    {
+      "frame": 147,
+      "event": "high_speed_run_candidate",
+      "track_id": 74,
+      "team": 1.0,
+      "speed_kmh": 35.96623416483743
+    },
+    {
+      "frame": 152,
+      "event": "high_speed_run_candidate",
+      "track_id": 74,
+      "team": 1.0,
+      "speed_kmh": 35.14612354158002
+    },
+    {
+      "frame": 159,
+      "event": "high_speed_run_candidate",
+      "track_id": 74,
+      "team": 1.0,
+      "speed_kmh": 31.70504691685492
+    },
+    {
+      "frame": 162,
+      "event": "high_speed_run_candidate",
+      "track_id": 74,
+      "team": 1.0,
+      "speed_kmh": 31.241798923877763
+    },
+    {
+      "frame": 163,
+      "event": "high_speed_run_candidate",
+      "track_id": 74,
+      "team": 1.0,
+      "speed_kmh": 19.26084110312969
+    },
+    {
+      "frame": 164,
+      "event": "high_speed_run_candidate",
+      "track_id": 74,
+      "team": 1.0,
+      "speed_kmh": 28.926285623978792
+    },
+    {
+      "frame": 165,
+      "event": "high_speed_run_candidate",
+      "track_id": 74,
+      "team": 1.0,
+      "speed_kmh": 34.211840055747004
+    },
+    {
+      "frame": 168,
+      "event": "high_speed_run_candidate",
+      "track_id": 74,
+      "team": 1.0,
+      "speed_kmh": 33.818929610500255
+    },
+    {
+      "frame": 170,
+      "event": "high_speed_run_candidate",
+      "track_id": 74,
+      "team": 1.0,
+      "speed_kmh": 34.24733566279305
+    },
+    {
+      "frame": 171,
+      "event": "high_speed_run_candidate",
+      "track_id": 74,
+      "team": 1.0,
+      "speed_kmh": 38.71046370169179
+    },
+    {
+      "frame": 110,
+      "event": "high_speed_run_candidate",
+      "track_id": 90,
+      "team": 1.0,
+      "speed_kmh": 19.07065809037563
+    },
+    {
+      "frame": 114,
+      "event": "high_speed_run_candidate",
+      "track_id": 90,
+      "team": 1.0,
+      "speed_kmh": 24.76226968595562
+    },
+    {
+      "frame": 116,
+      "event": "high_speed_run_candidate",
+      "track_id": 90,
+      "team": 1.0,
+      "speed_kmh": 21.916432191394943
+    },
+    {
+      "frame": 117,
+      "event": "high_speed_run_candidate",
+      "track_id": 90,
+      "team": 1.0,
+      "speed_kmh": 27.72525924134861
+    },
+    {
+      "frame": 124,
+      "event": "high_speed_run_candidate",
+      "track_id": 90,
+      "team": 1.0,
+      "speed_kmh": 20.52315765178449
+    },
+    {
+      "frame": 125,
+      "event": "high_speed_run_candidate",
+      "track_id": 90,
+      "team": 1.0,
+      "speed_kmh": 32.5123053627391
+    },
+    {
+      "frame": 135,
+      "event": "high_speed_run_candidate",
+      "track_id": 90,
+      "team": 1.0,
+      "speed_kmh": 19.799999999999898
+    },
+    {
+      "frame": 143,
+      "event": "high_speed_run_candidate",
+      "track_id": 90,
+      "team": 1.0,
+      "speed_kmh": 22.71497303542269
+    },
+    {
+      "frame": 144,
+      "event": "high_speed_run_candidate",
+      "track_id": 90,
+      "team": 1.0,
+      "speed_kmh": 30.17349830563183
+    },
+    {
+      "frame": 146,
+      "event": "high_speed_run_candidate",
+      "track_id": 90,
+      "team": 1.0,
+      "speed_kmh": 34.494782214126474
+    },
+    {
+      "frame": 147,
+      "event": "high_speed_run_candidate",
+      "track_id": 90,
+      "team": 1.0,
+      "speed_kmh": 35.14612354157998
+    },
+    {
+      "frame": 152,
+      "event": "high_speed_run_candidate",
+      "track_id": 90,
+      "team": 1.0,
+      "speed_kmh": 33.602678464669154
+    },
+    {
+      "frame": 122,
+      "event": "high_speed_run_candidate",
+      "track_id": 95,
+      "team": 1.0,
+      "speed_kmh": 35.11153656563487
+    },
+    {
+      "frame": 133,
+      "event": "high_speed_run_candidate",
+      "track_id": 100,
+      "team": 1.0,
+      "speed_kmh": 38.96334816208705
+    },
+    {
+      "frame": 136,
+      "event": "high_speed_run_candidate",
+      "track_id": 100,
+      "team": 1.0,
+      "speed_kmh": 21.335885264034065
+    },
+    {
+      "frame": 141,
+      "event": "high_speed_run_candidate",
+      "track_id": 100,
+      "team": 1.0,
+      "speed_kmh": 32.123822935634045
+    },
+    {
+      "frame": 146,
+      "event": "high_speed_run_candidate",
+      "track_id": 100,
+      "team": 1.0,
+      "speed_kmh": 21.76809592040691
+    },
+    {
+      "frame": 161,
+      "event": "high_speed_run_candidate",
+      "track_id": 100,
+      "team": 1.0,
+      "speed_kmh": 33.300000000000644
+    },
+    {
+      "frame": 164,
+      "event": "high_speed_run_candidate",
+      "track_id": 100,
+      "team": 1.0,
+      "speed_kmh": 20.124611797497995
+    },
+    {
+      "frame": 165,
+      "event": "high_speed_run_candidate",
+      "track_id": 100,
+      "team": 1.0,
+      "speed_kmh": 32.44996147917587
+    },
+    {
+      "frame": 170,
+      "event": "high_speed_run_candidate",
+      "track_id": 100,
+      "team": 1.0,
+      "speed_kmh": 25.071098898931663
+    },
+    {
+      "frame": 171,
+      "event": "high_speed_run_candidate",
+      "track_id": 100,
+      "team": 1.0,
+      "speed_kmh": 26.239283526804424
+    },
+    {
+      "frame": 129,
+      "event": "high_speed_run_candidate",
+      "track_id": 103,
+      "team": 1.0,
+      "speed_kmh": 18.98552079875613
+    },
+    {
+      "frame": 135,
+      "event": "high_speed_run_candidate",
+      "track_id": 103,
+      "team": 1.0,
+      "speed_kmh": 37.17337757051439
+    },
+    {
+      "frame": 149,
+      "event": "high_speed_run_candidate",
+      "track_id": 103,
+      "team": 1.0,
+      "speed_kmh": 20.224984548820053
+    },
+    {
+      "frame": 150,
+      "event": "high_speed_run_candidate",
+      "track_id": 103,
+      "team": 1.0,
+      "speed_kmh": 22.50000000000018
+    },
+    {
+      "frame": 155,
+      "event": "high_speed_run_candidate",
+      "track_id": 103,
+      "team": 1.0,
+      "speed_kmh": 23.760681808399493
+    },
+    {
+      "frame": 156,
+      "event": "high_speed_run_candidate",
+      "track_id": 103,
+      "team": 1.0,
+      "speed_kmh": 24.149534156997785
+    },
+    {
+      "frame": 157,
+      "event": "high_speed_run_candidate",
+      "track_id": 103,
+      "team": 1.0,
+      "speed_kmh": 24.29999999999964
+    },
+    {
+      "frame": 158,
+      "event": "high_speed_run_candidate",
+      "track_id": 103,
+      "team": 1.0,
+      "speed_kmh": 24.233241632105724
+    },
+    {
+      "frame": 163,
+      "event": "high_speed_run_candidate",
+      "track_id": 103,
+      "team": 1.0,
+      "speed_kmh": 38.85665966086079
+    },
+    {
+      "frame": 169,
+      "event": "high_speed_run_candidate",
+      "track_id": 103,
+      "team": 1.0,
+      "speed_kmh": 23.77772066452134
+    },
+    {
+      "frame": 171,
+      "event": "high_speed_run_candidate",
+      "track_id": 103,
+      "team": 1.0,
+      "speed_kmh": 30.99451564390074
+    },
+    {
+      "frame": 172,
+      "event": "high_speed_run_candidate",
+      "track_id": 103,
+      "team": 1.0,
+      "speed_kmh": 23.34801918793134
+    },
+    {
+      "frame": 177,
+      "event": "high_speed_run_candidate",
+      "track_id": 103,
+      "team": 1.0,
+      "speed_kmh": 33.602678464669864
+    },
+    {
+      "frame": 157,
+      "event": "high_speed_run_candidate",
+      "track_id": 112,
+      "team": 1.0,
+      "speed_kmh": 19.738540979515538
+    },
+    {
+      "frame": 165,
+      "event": "high_speed_run_candidate",
+      "track_id": 112,
+      "team": 1.0,
+      "speed_kmh": 23.39999999999975
+    },
+    {
+      "frame": 166,
+      "event": "high_speed_run_candidate",
+      "track_id": 112,
+      "team": 1.0,
+      "speed_kmh": 38.65811687084621
+    },
+    {
+      "frame": 199,
+      "event": "high_speed_run_candidate",
+      "track_id": 112,
+      "team": 1.0,
+      "speed_kmh": 29.604391566116924
+    },
+    {
+      "frame": 207,
+      "event": "high_speed_run_candidate",
+      "track_id": 112,
+      "team": 1.0,
+      "speed_kmh": 23.34801918793134
+    },
+    {
+      "frame": 208,
+      "event": "high_speed_run_candidate",
+      "track_id": 112,
+      "team": 1.0,
+      "speed_kmh": 31.896081264004547
+    },
+    {
+      "frame": 209,
+      "event": "high_speed_run_candidate",
+      "track_id": 112,
+      "team": 1.0,
+      "speed_kmh": 18.00000000000051
+    },
+    {
+      "frame": 210,
+      "event": "high_speed_run_candidate",
+      "track_id": 112,
+      "team": 1.0,
+      "speed_kmh": 25.582806726393315
+    },
+    {
+      "frame": 213,
+      "event": "high_speed_run_candidate",
+      "track_id": 112,
+      "team": 1.0,
+      "speed_kmh": 20.124611797497995
+    },
+    {
+      "frame": 215,
+      "event": "high_speed_run_candidate",
+      "track_id": 112,
+      "team": 1.0,
+      "speed_kmh": 20.52315765178444
+    },
+    {
+      "frame": 220,
+      "event": "high_speed_run_candidate",
+      "track_id": 112,
+      "team": 1.0,
+      "speed_kmh": 22.1370729772478
+    },
+    {
+      "frame": 222,
+      "event": "high_speed_run_candidate",
+      "track_id": 112,
+      "team": 1.0,
+      "speed_kmh": 20.71955597979801
+    },
+    {
+      "frame": 226,
+      "event": "high_speed_run_candidate",
+      "track_id": 112,
+      "team": 1.0,
+      "speed_kmh": 33.40928014788747
+    },
+    {
+      "frame": 153,
+      "event": "high_speed_run_candidate",
+      "track_id": 113,
+      "team": 1.0,
+      "speed_kmh": 27.238942710759847
+    },
+    {
+      "frame": 154,
+      "event": "high_speed_run_candidate",
+      "track_id": 113,
+      "team": 1.0,
+      "speed_kmh": 27.07489612168365
+    },
+    {
+      "frame": 155,
+      "event": "high_speed_run_candidate",
+      "track_id": 113,
+      "team": 1.0,
+      "speed_kmh": 18.985520798756795
+    },
+    {
+      "frame": 162,
+      "event": "high_speed_run_candidate",
+      "track_id": 113,
+      "team": 1.0,
+      "speed_kmh": 25.91312408799925
+    },
+    {
+      "frame": 163,
+      "event": "high_speed_run_candidate",
+      "track_id": 113,
+      "team": 1.0,
+      "speed_kmh": 34.06948781534498
+    },
+    {
+      "frame": 163,
+      "event": "high_speed_run_candidate",
+      "track_id": 118,
+      "team": 1.0,
+      "speed_kmh": 29.920770377782663
+    },
+    {
+      "frame": 172,
+      "event": "high_speed_run_candidate",
+      "track_id": 118,
+      "team": 1.0,
+      "speed_kmh": 37.17337757051379
+    },
+    {
+      "frame": 194,
+      "event": "high_speed_run_candidate",
+      "track_id": 135,
+      "team": 1.0,
+      "speed_kmh": 22.43728449561556
+    },
+    {
+      "frame": 195,
+      "event": "high_speed_run_candidate",
+      "track_id": 135,
+      "team": 1.0,
+      "speed_kmh": 22.228360263410263
+    },
+    {
+      "frame": 208,
+      "event": "high_speed_run_candidate",
+      "track_id": 140,
+      "team": 1.0,
+      "speed_kmh": 37.43394181755399
+    },
+    {
+      "frame": 210,
+      "event": "high_speed_run_candidate",
+      "track_id": 140,
+      "team": 1.0,
+      "speed_kmh": 30.718886698577137
+    },
+    {
+      "frame": 220,
+      "event": "high_speed_run_candidate",
+      "track_id": 140,
+      "team": 1.0,
+      "speed_kmh": 28.1312992945582
+    },
+    {
+      "frame": 237,
+      "event": "high_speed_run_candidate",
+      "track_id": 140,
+      "team": 1.0,
+      "speed_kmh": 25.61444904736363
+    },
+    {
+      "frame": 242,
+      "event": "high_speed_run_candidate",
+      "track_id": 140,
+      "team": 1.0,
+      "speed_kmh": 36.90000000000057
+    },
+    {
+      "frame": 244,
+      "event": "high_speed_run_candidate",
+      "track_id": 140,
+      "team": 1.0,
+      "speed_kmh": 27.47580754045331
+    },
+    {
+      "frame": 245,
+      "event": "high_speed_run_candidate",
+      "track_id": 140,
+      "team": 1.0,
+      "speed_kmh": 37.69270486446924
+    },
+    {
+      "frame": 219,
+      "event": "high_speed_run_candidate",
+      "track_id": 143,
+      "team": 1.0,
+      "speed_kmh": 38.71046370169243
+    },
+    {
+      "frame": 222,
+      "event": "high_speed_run_candidate",
+      "track_id": 143,
+      "team": 1.0,
+      "speed_kmh": 28.46049894151521
+    },
+    {
+      "frame": 223,
+      "event": "high_speed_run_candidate",
+      "track_id": 143,
+      "team": 1.0,
+      "speed_kmh": 31.306548835666995
+    },
+    {
+      "frame": 236,
+      "event": "high_speed_run_candidate",
+      "track_id": 143,
+      "team": 1.0,
+      "speed_kmh": 34.763774248490314
+    },
+    {
+      "frame": 238,
+      "event": "high_speed_run_candidate",
+      "track_id": 143,
+      "team": 1.0,
+      "speed_kmh": 27.238942710758536
+    },
+    {
+      "frame": 240,
+      "event": "high_speed_run_candidate",
+      "track_id": 143,
+      "team": 1.0,
+      "speed_kmh": 25.913124087998053
+    },
+    {
+      "frame": 241,
+      "event": "high_speed_run_candidate",
+      "track_id": 143,
+      "team": 1.0,
+      "speed_kmh": 36.1795522360357
+    },
+    {
+      "frame": 242,
+      "event": "high_speed_run_candidate",
+      "track_id": 143,
+      "team": 1.0,
+      "speed_kmh": 37.98170612281628
+    },
+    {
+      "frame": 244,
+      "event": "high_speed_run_candidate",
+      "track_id": 143,
+      "team": 1.0,
+      "speed_kmh": 33.19036004625556
+    },
+    {
+      "frame": 245,
+      "event": "high_speed_run_candidate",
+      "track_id": 143,
+      "team": 1.0,
+      "speed_kmh": 34.4947822141258
+    },
+    {
+      "frame": 246,
+      "event": "high_speed_run_candidate",
+      "track_id": 143,
+      "team": 1.0,
+      "speed_kmh": 24.44953987297068
+    },
+    {
+      "frame": 247,
+      "event": "high_speed_run_candidate",
+      "track_id": 143,
+      "team": 1.0,
+      "speed_kmh": 23.469128658729968
+    },
+    {
+      "frame": 248,
+      "event": "high_speed_run_candidate",
+      "track_id": 143,
+      "team": 1.0,
+      "speed_kmh": 30.61323243305121
+    },
+    {
+      "frame": 231,
+      "event": "high_speed_run_candidate",
+      "track_id": 148,
+      "team": 1.0,
+      "speed_kmh": 25.344230112591813
+    },
+    {
+      "frame": 233,
+      "event": "high_speed_run_candidate",
+      "track_id": 148,
+      "team": 1.0,
+      "speed_kmh": 36.28015986734268
+    },
+    {
+      "frame": 235,
+      "event": "high_speed_run_candidate",
+      "track_id": 148,
+      "team": 1.0,
+      "speed_kmh": 33.49402931867151
+    },
+    {
+      "frame": 236,
+      "event": "high_speed_run_candidate",
+      "track_id": 148,
+      "team": 1.0,
+      "speed_kmh": 19.091883092037506
+    },
+    {
+      "frame": 238,
+      "event": "high_speed_run_candidate",
+      "track_id": 148,
+      "team": 1.0,
+      "speed_kmh": 34.21184005574699
+    },
+    {
+      "frame": 243,
+      "event": "high_speed_run_candidate",
+      "track_id": 148,
+      "team": 1.0,
+      "speed_kmh": 18.08977611801661
+    },
+    {
+      "frame": 246,
+      "event": "high_speed_run_candidate",
+      "track_id": 148,
+      "team": 1.0,
+      "speed_kmh": 35.14612354157961
+    },
+    {
+      "frame": 247,
+      "event": "high_speed_run_candidate",
+      "track_id": 148,
+      "team": 1.0,
+      "speed_kmh": 22.571885167171985
+    },
+    {
+      "frame": 239,
+      "event": "high_speed_run_candidate",
+      "track_id": 152,
+      "team": 1.0,
+      "speed_kmh": 18.90000000000008
+    },
+    {
+      "frame": 240,
+      "event": "high_speed_run_candidate",
+      "track_id": 152,
+      "team": 1.0,
+      "speed_kmh": 26.96998331478913
+    },
+    {
+      "frame": 241,
+      "event": "high_speed_run_candidate",
+      "track_id": 152,
+      "team": 1.0,
+      "speed_kmh": 26.347106102948008
+    },
+    {
+      "frame": 242,
+      "event": "high_speed_run_candidate",
+      "track_id": 152,
+      "team": 1.0,
+      "speed_kmh": 33.09259735953072
+    },
+    {
+      "frame": 249,
+      "event": "high_speed_run_candidate",
+      "track_id": 152,
+      "team": 1.0,
+      "speed_kmh": 34.623691311008685
+    },
+    {
+      "frame": 256,
+      "event": "high_speed_run_candidate",
+      "track_id": 161,
+      "team": 1.0,
+      "speed_kmh": 23.623928547131992
+    },
+    {
+      "frame": 268,
+      "event": "high_speed_run_candidate",
+      "track_id": 161,
+      "team": 1.0,
+      "speed_kmh": 38.74183785005622
+    },
+    {
+      "frame": 271,
+      "event": "high_speed_run_candidate",
+      "track_id": 176,
+      "team": 1.0,
+      "speed_kmh": 36.94387635319256
+    },
+    {
+      "frame": 273,
+      "event": "high_speed_run_candidate",
+      "track_id": 176,
+      "team": 1.0,
+      "speed_kmh": 29.48101083748639
+    },
+    {
+      "frame": 274,
+      "event": "high_speed_run_candidate",
+      "track_id": 176,
+      "team": 1.0,
+      "speed_kmh": 31.07281770293796
+    },
+    {
+      "frame": 298,
+      "event": "high_speed_run_candidate",
+      "track_id": 176,
+      "team": 1.0,
+      "speed_kmh": 35.421603577478066
+    },
+    {
+      "frame": 272,
+      "event": "high_speed_run_candidate",
+      "track_id": 177,
+      "team": 1.0,
+      "speed_kmh": 29.52219504034237
+    },
+    {
+      "frame": 273,
+      "event": "high_speed_run_candidate",
+      "track_id": 177,
+      "team": 1.0,
+      "speed_kmh": 20.991426821443262
+    },
+    {
+      "frame": 277,
+      "event": "high_speed_run_candidate",
+      "track_id": 177,
+      "team": 1.0,
+      "speed_kmh": 28.70139369438315
+    },
+    {
+      "frame": 283,
+      "event": "high_speed_run_candidate",
+      "track_id": 177,
+      "team": 1.0,
+      "speed_kmh": 33.62677504608491
+    },
+    {
+      "frame": 285,
+      "event": "high_speed_run_candidate",
+      "track_id": 177,
+      "team": 1.0,
+      "speed_kmh": 31.24179892387798
+    },
+    {
+      "frame": 292,
+      "event": "high_speed_run_candidate",
+      "track_id": 177,
+      "team": 1.0,
+      "speed_kmh": 30.65289545866683
+    },
+    {
+      "frame": 293,
+      "event": "high_speed_run_candidate",
+      "track_id": 177,
+      "team": 1.0,
+      "speed_kmh": 22.553935355055387
+    },
+    {
+      "frame": 299,
+      "event": "high_speed_run_candidate",
+      "track_id": 177,
+      "team": 1.0,
+      "speed_kmh": 27.32800761124069
+    },
+    {
+      "frame": 301,
+      "event": "high_speed_run_candidate",
+      "track_id": 177,
+      "team": 1.0,
+      "speed_kmh": 29.754495458669613
+    },
+    {
+      "frame": 302,
+      "event": "high_speed_run_candidate",
+      "track_id": 177,
+      "team": 1.0,
+      "speed_kmh": 23.068810112356896
+    },
+    {
+      "frame": 303,
+      "event": "high_speed_run_candidate",
+      "track_id": 177,
+      "team": 1.0,
+      "speed_kmh": 22.553935355055103
+    },
+    {
+      "frame": 318,
+      "event": "high_speed_run_candidate",
+      "track_id": 177,
+      "team": 1.0,
+      "speed_kmh": 24.366575467225232
+    },
+    {
+      "frame": 321,
+      "event": "high_speed_run_candidate",
+      "track_id": 177,
+      "team": 1.0,
+      "speed_kmh": 28.60598713556345
+    },
+    {
+      "frame": 323,
+      "event": "high_speed_run_candidate",
+      "track_id": 177,
+      "team": 1.0,
+      "speed_kmh": 29.384689891166705
+    },
+    {
+      "frame": 328,
+      "event": "high_speed_run_candidate",
+      "track_id": 177,
+      "team": 1.0,
+      "speed_kmh": 28.799999999999383
+    },
+    {
+      "frame": 330,
+      "event": "high_speed_run_candidate",
+      "track_id": 177,
+      "team": 1.0,
+      "speed_kmh": 26.652767210928864
+    },
+    {
+      "frame": 334,
+      "event": "high_speed_run_candidate",
+      "track_id": 177,
+      "team": 1.0,
+      "speed_kmh": 28.030340704315567
+    },
+    {
+      "frame": 335,
+      "event": "high_speed_run_candidate",
+      "track_id": 177,
+      "team": 1.0,
+      "speed_kmh": 19.323819498225674
+    },
+    {
+      "frame": 337,
+      "event": "high_speed_run_candidate",
+      "track_id": 177,
+      "team": 1.0,
+      "speed_kmh": 23.13892823792837
+    },
+    {
+      "frame": 339,
+      "event": "high_speed_run_candidate",
+      "track_id": 177,
+      "team": 1.0,
+      "speed_kmh": 29.68636050444784
+    },
+    {
+      "frame": 344,
+      "event": "high_speed_run_candidate",
+      "track_id": 177,
+      "team": 1.0,
+      "speed_kmh": 25.216066307019528
+    },
+    {
+      "frame": 346,
+      "event": "high_speed_run_candidate",
+      "track_id": 177,
+      "team": 1.0,
+      "speed_kmh": 30.25392536514864
+    },
+    {
+      "frame": 347,
+      "event": "high_speed_run_candidate",
+      "track_id": 177,
+      "team": 1.0,
+      "speed_kmh": 38.6476389964506
+    },
+    {
+      "frame": 348,
+      "event": "high_speed_run_candidate",
+      "track_id": 177,
+      "team": 1.0,
+      "speed_kmh": 25.772077913897576
+    },
+    {
+      "frame": 350,
+      "event": "high_speed_run_candidate",
+      "track_id": 177,
+      "team": 1.0,
+      "speed_kmh": 24.48264691572372
+    },
+    {
+      "frame": 272,
+      "event": "high_speed_run_candidate",
+      "track_id": 178,
+      "team": 1.0,
+      "speed_kmh": 27.014995835646605
+    },
+    {
+      "frame": 273,
+      "event": "high_speed_run_candidate",
+      "track_id": 178,
+      "team": 1.0,
+      "speed_kmh": 33.40928014788714
+    },
+    {
+      "frame": 274,
+      "event": "high_speed_run_candidate",
+      "track_id": 178,
+      "team": 1.0,
+      "speed_kmh": 38.71046370169179
+    },
+    {
+      "frame": 276,
+      "event": "high_speed_run_candidate",
+      "track_id": 178,
+      "team": 1.0,
+      "speed_kmh": 33.60267846466982
+    },
+    {
+      "frame": 277,
+      "event": "high_speed_run_candidate",
+      "track_id": 178,
+      "team": 1.0,
+      "speed_kmh": 32.84691766361032
+    },
+    {
+      "frame": 281,
+      "event": "high_speed_run_candidate",
+      "track_id": 178,
+      "team": 1.0,
+      "speed_kmh": 36.94387635319252
+    },
+    {
+      "frame": 283,
+      "event": "high_speed_run_candidate",
+      "track_id": 178,
+      "team": 1.0,
+      "speed_kmh": 34.30641339458225
+    },
+    {
+      "frame": 286,
+      "event": "high_speed_run_candidate",
+      "track_id": 178,
+      "team": 1.0,
+      "speed_kmh": 35.595540451017456
+    },
+    {
+      "frame": 288,
+      "event": "high_speed_run_candidate",
+      "track_id": 178,
+      "team": 1.0,
+      "speed_kmh": 28.92628562397845
+    },
+    {
+      "frame": 289,
+      "event": "high_speed_run_candidate",
+      "track_id": 178,
+      "team": 1.0,
+      "speed_kmh": 31.61550252645067
+    },
+    {
+      "frame": 290,
+      "event": "high_speed_run_candidate",
+      "track_id": 178,
+      "team": 1.0,
+      "speed_kmh": 39.76329966187456
+    },
+    {
+      "frame": 271,
+      "event": "high_speed_run_candidate",
+      "track_id": 179,
+      "team": 1.0,
+      "speed_kmh": 18.000000000000256
+    },
+    {
+      "frame": 274,
+      "event": "high_speed_run_candidate",
+      "track_id": 179,
+      "team": 1.0,
+      "speed_kmh": 27.5824672572995
+    },
+    {
+      "frame": 275,
+      "event": "high_speed_run_candidate",
+      "track_id": 179,
+      "team": 1.0,
+      "speed_kmh": 18.79255171603925
+    },
+    {
+      "frame": 277,
+      "event": "high_speed_run_candidate",
+      "track_id": 179,
+      "team": 1.0,
+      "speed_kmh": 20.77811348510771
+    },
+    {
+      "frame": 279,
+      "event": "high_speed_run_candidate",
+      "track_id": 179,
+      "team": 1.0,
+      "speed_kmh": 25.901399576084383
+    },
+    {
+      "frame": 282,
+      "event": "high_speed_run_candidate",
+      "track_id": 179,
+      "team": 1.0,
+      "speed_kmh": 35.20369298809422
+    },
+    {
+      "frame": 283,
+      "event": "high_speed_run_candidate",
+      "track_id": 179,
+      "team": 1.0,
+      "speed_kmh": 24.14953415699843
+    },
+    {
+      "frame": 284,
+      "event": "high_speed_run_candidate",
+      "track_id": 179,
+      "team": 1.0,
+      "speed_kmh": 25.344230112590527
+    },
+    {
+      "frame": 285,
+      "event": "high_speed_run_candidate",
+      "track_id": 179,
+      "team": 1.0,
+      "speed_kmh": 36.9000000000005
+    },
+    {
+      "frame": 286,
+      "event": "high_speed_run_candidate",
+      "track_id": 179,
+      "team": 1.0,
+      "speed_kmh": 19.23980249378822
+    },
+    {
+      "frame": 288,
+      "event": "high_speed_run_candidate",
+      "track_id": 179,
+      "team": 1.0,
+      "speed_kmh": 31.705046916854865
+    },
+    {
+      "frame": 289,
+      "event": "high_speed_run_candidate",
+      "track_id": 179,
+      "team": 1.0,
+      "speed_kmh": 24.316660954990976
+    },
+    {
+      "frame": 291,
+      "event": "high_speed_run_candidate",
+      "track_id": 179,
+      "team": 1.0,
+      "speed_kmh": 35.10000000000005
+    },
+    {
+      "frame": 293,
+      "event": "high_speed_run_candidate",
+      "track_id": 179,
+      "team": 1.0,
+      "speed_kmh": 32.41249758966434
+    },
+    {
+      "frame": 307,
+      "event": "high_speed_run_candidate",
+      "track_id": 179,
+      "team": 1.0,
+      "speed_kmh": 25.61444904736353
+    },
+    {
+      "frame": 308,
+      "event": "high_speed_run_candidate",
+      "track_id": 179,
+      "team": 1.0,
+      "speed_kmh": 24.14953415699843
+    },
+    {
+      "frame": 311,
+      "event": "high_speed_run_candidate",
+      "track_id": 179,
+      "team": 1.0,
+      "speed_kmh": 35.99999999999987
+    },
+    {
+      "frame": 313,
+      "event": "high_speed_run_candidate",
+      "track_id": 179,
+      "team": 1.0,
+      "speed_kmh": 19.881649830936965
+    },
+    {
+      "frame": 315,
+      "event": "high_speed_run_candidate",
+      "track_id": 179,
+      "team": 1.0,
+      "speed_kmh": 19.98324298005698
+    },
+    {
+      "frame": 316,
+      "event": "high_speed_run_candidate",
+      "track_id": 179,
+      "team": 1.0,
+      "speed_kmh": 23.46912865872872
+    },
+    {
+      "frame": 318,
+      "event": "high_speed_run_candidate",
+      "track_id": 179,
+      "team": 1.0,
+      "speed_kmh": 20.224984548819283
+    },
+    {
+      "frame": 319,
+      "event": "high_speed_run_candidate",
+      "track_id": 179,
+      "team": 1.0,
+      "speed_kmh": 31.24179892387792
+    },
+    {
+      "frame": 320,
+      "event": "high_speed_run_candidate",
+      "track_id": 179,
+      "team": 1.0,
+      "speed_kmh": 35.660902961085924
+    },
+    {
+      "frame": 322,
+      "event": "high_speed_run_candidate",
+      "track_id": 179,
+      "team": 1.0,
+      "speed_kmh": 27.07489612168427
+    },
+    {
+      "frame": 323,
+      "event": "high_speed_run_candidate",
+      "track_id": 179,
+      "team": 1.0,
+      "speed_kmh": 38.06691476860075
+    },
+    {
+      "frame": 325,
+      "event": "high_speed_run_candidate",
+      "track_id": 179,
+      "team": 1.0,
+      "speed_kmh": 36.899999999999245
+    },
+    {
+      "frame": 328,
+      "event": "high_speed_run_candidate",
+      "track_id": 179,
+      "team": 1.0,
+      "speed_kmh": 30.36083002817925
+    },
+    {
+      "frame": 329,
+      "event": "high_speed_run_candidate",
+      "track_id": 179,
+      "team": 1.0,
+      "speed_kmh": 22.517992805754243
+    },
+    {
+      "frame": 330,
+      "event": "high_speed_run_candidate",
+      "track_id": 179,
+      "team": 1.0,
+      "speed_kmh": 39.94621383810921
+    },
+    {
+      "frame": 334,
+      "event": "high_speed_run_candidate",
+      "track_id": 179,
+      "team": 1.0,
+      "speed_kmh": 22.517992805754243
+    },
+    {
+      "frame": 337,
+      "event": "high_speed_run_candidate",
+      "track_id": 179,
+      "team": 1.0,
+      "speed_kmh": 30.360830028180505
+    },
+    {
+      "frame": 339,
+      "event": "high_speed_run_candidate",
+      "track_id": 179,
+      "team": 1.0,
+      "speed_kmh": 33.006817477605914
+    },
+    {
+      "frame": 344,
+      "event": "high_speed_run_candidate",
+      "track_id": 179,
+      "team": 1.0,
+      "speed_kmh": 21.61874186903531
+    },
+    {
+      "frame": 345,
+      "event": "high_speed_run_candidate",
+      "track_id": 179,
+      "team": 1.0,
+      "speed_kmh": 21.674870241826028
+    },
+    {
+      "frame": 347,
+      "event": "high_speed_run_candidate",
+      "track_id": 179,
+      "team": 1.0,
+      "speed_kmh": 28.757781555606567
+    },
+    {
+      "frame": 349,
+      "event": "high_speed_run_candidate",
+      "track_id": 179,
+      "team": 1.0,
+      "speed_kmh": 25.408069584288054
+    },
+    {
+      "frame": 278,
+      "event": "high_speed_run_candidate",
+      "track_id": 193,
+      "team": NaN,
+      "speed_kmh": 37.07519386328246
+    },
+    {
+      "frame": 280,
+      "event": "high_speed_run_candidate",
+      "track_id": 193,
+      "team": NaN,
+      "speed_kmh": 39.610225952397485
+    },
+    {
+      "frame": 282,
+      "event": "high_speed_run_candidate",
+      "track_id": 193,
+      "team": NaN,
+      "speed_kmh": 39.691938728159705
+    },
+    {
+      "frame": 287,
+      "event": "high_speed_run_candidate",
+      "track_id": 193,
+      "team": NaN,
+      "speed_kmh": 35.99999999999987
+    },
+    {
+      "frame": 288,
+      "event": "high_speed_run_candidate",
+      "track_id": 193,
+      "team": NaN,
+      "speed_kmh": 25.264203925712863
+    },
+    {
+      "frame": 290,
+      "event": "high_speed_run_candidate",
+      "track_id": 193,
+      "team": NaN,
+      "speed_kmh": 39.16034346121042
+    },
+    {
+      "frame": 300,
+      "event": "high_speed_run_candidate",
+      "track_id": 214,
+      "team": 1.0,
+      "speed_kmh": 37.8428328749317
+    },
+    {
+      "frame": 301,
+      "event": "high_speed_run_candidate",
+      "track_id": 214,
+      "team": 1.0,
+      "speed_kmh": 33.40928014788746
+    },
+    {
+      "frame": 302,
+      "event": "high_speed_run_candidate",
+      "track_id": 214,
+      "team": 1.0,
+      "speed_kmh": 33.29999999999977
+    },
+    {
+      "frame": 303,
+      "event": "high_speed_run_candidate",
+      "track_id": 214,
+      "team": 1.0,
+      "speed_kmh": 23.417301296263656
+    },
+    {
+      "frame": 304,
+      "event": "high_speed_run_candidate",
+      "track_id": 214,
+      "team": 1.0,
+      "speed_kmh": 28.92628562397877
+    },
+    {
+      "frame": 305,
+      "event": "high_speed_run_candidate",
+      "track_id": 214,
+      "team": 1.0,
+      "speed_kmh": 28.800000000000026
+    },
+    {
+      "frame": 306,
+      "event": "high_speed_run_candidate",
+      "track_id": 214,
+      "team": 1.0,
+      "speed_kmh": 23.469128658729367
+    },
+    {
+      "frame": 308,
+      "event": "high_speed_run_candidate",
+      "track_id": 214,
+      "team": 1.0,
+      "speed_kmh": 21.71687132162475
+    },
+    {
+      "frame": 309,
+      "event": "high_speed_run_candidate",
+      "track_id": 214,
+      "team": 1.0,
+      "speed_kmh": 18.201373574540654
+    },
+    {
+      "frame": 310,
+      "event": "high_speed_run_candidate",
+      "track_id": 214,
+      "team": 1.0,
+      "speed_kmh": 28.81405906844785
+    },
+    {
+      "frame": 311,
+      "event": "high_speed_run_candidate",
+      "track_id": 214,
+      "team": 1.0,
+      "speed_kmh": 20.719555979798773
+    },
+    {
+      "frame": 312,
+      "event": "high_speed_run_candidate",
+      "track_id": 214,
+      "team": 1.0,
+      "speed_kmh": 31.61550252645065
+    },
+    {
+      "frame": 313,
+      "event": "high_speed_run_candidate",
+      "track_id": 214,
+      "team": 1.0,
+      "speed_kmh": 28.814059068447843
+    },
+    {
+      "frame": 314,
+      "event": "high_speed_run_candidate",
+      "track_id": 214,
+      "team": 1.0,
+      "speed_kmh": 20.778113485107067
+    },
+    {
+      "frame": 315,
+      "event": "high_speed_run_candidate",
+      "track_id": 214,
+      "team": 1.0,
+      "speed_kmh": 29.917386249470244
+    },
+    {
+      "frame": 316,
+      "event": "high_speed_run_candidate",
+      "track_id": 214,
+      "team": 1.0,
+      "speed_kmh": 29.822474746406087
+    },
+    {
+      "frame": 318,
+      "event": "high_speed_run_candidate",
+      "track_id": 214,
+      "team": 1.0,
+      "speed_kmh": 20.69999999999972
+    },
+    {
+      "frame": 355,
+      "event": "high_speed_run_candidate",
+      "track_id": 253,
+      "team": 1.0,
+      "speed_kmh": 27.074896121684883
+    },
+    {
+      "frame": 385,
+      "event": "high_speed_run_candidate",
+      "track_id": 255,
+      "team": 1.0,
+      "speed_kmh": 31.43564855383147
+    },
+    {
+      "frame": 387,
+      "event": "high_speed_run_candidate",
+      "track_id": 255,
+      "team": 1.0,
+      "speed_kmh": 27.37243138634175
+    },
+    {
+      "frame": 396,
+      "event": "high_speed_run_candidate",
+      "track_id": 255,
+      "team": 1.0,
+      "speed_kmh": 35.14612354157954
+    },
+    {
+      "frame": 398,
+      "event": "high_speed_run_candidate",
+      "track_id": 255,
+      "team": 1.0,
+      "speed_kmh": 29.426008903689617
+    },
+    {
+      "frame": 405,
+      "event": "high_speed_run_candidate",
+      "track_id": 255,
+      "team": 1.0,
+      "speed_kmh": 22.49999999999999
+    },
+    {
+      "frame": 407,
+      "event": "high_speed_run_candidate",
+      "track_id": 255,
+      "team": 1.0,
+      "speed_kmh": 25.78778780740995
+    },
+    {
+      "frame": 410,
+      "event": "high_speed_run_candidate",
+      "track_id": 255,
+      "team": 1.0,
+      "speed_kmh": 36.022492973141034
+    },
+    {
+      "frame": 412,
+      "event": "high_speed_run_candidate",
+      "track_id": 255,
+      "team": 1.0,
+      "speed_kmh": 18.55397531527941
+    },
+    {
+      "frame": 413,
+      "event": "high_speed_run_candidate",
+      "track_id": 255,
+      "team": 1.0,
+      "speed_kmh": 23.76068180839956
+    },
+    {
+      "frame": 437,
+      "event": "high_speed_run_candidate",
+      "track_id": 255,
+      "team": 1.0,
+      "speed_kmh": 31.24179892387792
+    },
+    {
+      "frame": 361,
+      "event": "high_speed_run_candidate",
+      "track_id": 263,
+      "team": 1.0,
+      "speed_kmh": 23.39999999999982
+    },
+    {
+      "frame": 367,
+      "event": "high_speed_run_candidate",
+      "track_id": 263,
+      "team": 1.0,
+      "speed_kmh": 24.89277003469049
+    },
+    {
+      "frame": 371,
+      "event": "high_speed_run_candidate",
+      "track_id": 263,
+      "team": 1.0,
+      "speed_kmh": 19.759048560090484
+    },
+    {
+      "frame": 372,
+      "event": "high_speed_run_candidate",
+      "track_id": 263,
+      "team": 1.0,
+      "speed_kmh": 38.20497349822366
+    },
+    {
+      "frame": 377,
+      "event": "high_speed_run_candidate",
+      "track_id": 263,
+      "team": 1.0,
+      "speed_kmh": 25.07109889893189
+    },
+    {
+      "frame": 381,
+      "event": "high_speed_run_candidate",
+      "track_id": 263,
+      "team": 1.0,
+      "speed_kmh": 18.98552079875613
+    },
+    {
+      "frame": 384,
+      "event": "high_speed_run_candidate",
+      "track_id": 263,
+      "team": 1.0,
+      "speed_kmh": 30.784736477677
+    },
+    {
+      "frame": 386,
+      "event": "high_speed_run_candidate",
+      "track_id": 263,
+      "team": 1.0,
+      "speed_kmh": 31.487140232164936
+    },
+    {
+      "frame": 387,
+      "event": "high_speed_run_candidate",
+      "track_id": 263,
+      "team": 1.0,
+      "speed_kmh": 25.26420392571284
+    },
+    {
+      "frame": 390,
+      "event": "high_speed_run_candidate",
+      "track_id": 263,
+      "team": 1.0,
+      "speed_kmh": 32.32804510019142
+    },
+    {
+      "frame": 397,
+      "event": "high_speed_run_candidate",
+      "track_id": 263,
+      "team": 1.0,
+      "speed_kmh": 28.46049894151582
+    },
+    {
+      "frame": 399,
+      "event": "high_speed_run_candidate",
+      "track_id": 263,
+      "team": 1.0,
+      "speed_kmh": 30.18691769624688
+    },
+    {
+      "frame": 400,
+      "event": "high_speed_run_candidate",
+      "track_id": 263,
+      "team": 1.0,
+      "speed_kmh": 29.822474746406098
+    },
+    {
+      "frame": 404,
+      "event": "high_speed_run_candidate",
+      "track_id": 263,
+      "team": 1.0,
+      "speed_kmh": 26.46979410573513
+    },
+    {
+      "frame": 406,
+      "event": "high_speed_run_candidate",
+      "track_id": 263,
+      "team": 1.0,
+      "speed_kmh": 33.481935427929
+    },
+    {
+      "frame": 407,
+      "event": "high_speed_run_candidate",
+      "track_id": 263,
+      "team": 1.0,
+      "speed_kmh": 36.10110801623667
+    },
+    {
+      "frame": 409,
+      "event": "high_speed_run_candidate",
+      "track_id": 263,
+      "team": 1.0,
+      "speed_kmh": 28.0014285349876
+    },
+    {
+      "frame": 382,
+      "event": "high_speed_run_candidate",
+      "track_id": 264,
+      "team": 1.0,
+      "speed_kmh": 24.1132826467074
+    },
+    {
+      "frame": 385,
+      "event": "high_speed_run_candidate",
+      "track_id": 264,
+      "team": 1.0,
+      "speed_kmh": 24.827605603440567
+    },
+    {
+      "frame": 387,
+      "event": "high_speed_run_candidate",
+      "track_id": 264,
+      "team": 1.0,
+      "speed_kmh": 18.356470248934293
+    },
+    {
+      "frame": 389,
+      "event": "high_speed_run_candidate",
+      "track_id": 264,
+      "team": 1.0,
+      "speed_kmh": 19.98324298005704
+    },
+    {
+      "frame": 397,
+      "event": "high_speed_run_candidate",
+      "track_id": 264,
+      "team": 1.0,
+      "speed_kmh": 27.238942710758696
+    },
+    {
+      "frame": 403,
+      "event": "high_speed_run_candidate",
+      "track_id": 264,
+      "team": 1.0,
+      "speed_kmh": 33.006817477606155
+    },
+    {
+      "frame": 412,
+      "event": "high_speed_run_candidate",
+      "track_id": 264,
+      "team": 1.0,
+      "speed_kmh": 19.428329830430464
+    },
+    {
+      "frame": 367,
+      "event": "high_speed_run_candidate",
+      "track_id": 265,
+      "team": 1.0,
+      "speed_kmh": 24.5652193151214
+    },
+    {
+      "frame": 376,
+      "event": "high_speed_run_candidate",
+      "track_id": 265,
+      "team": 1.0,
+      "speed_kmh": 29.95797055876763
+    },
+    {
+      "frame": 377,
+      "event": "high_speed_run_candidate",
+      "track_id": 265,
+      "team": 1.0,
+      "speed_kmh": 38.20497349822372
+    },
+    {
+      "frame": 379,
+      "event": "high_speed_run_candidate",
+      "track_id": 265,
+      "team": 1.0,
+      "speed_kmh": 22.282953125651773
+    },
+    {
+      "frame": 383,
+      "event": "high_speed_run_candidate",
+      "track_id": 265,
+      "team": 1.0,
+      "speed_kmh": 29.91738624947041
+    },
+    {
+      "frame": 388,
+      "event": "high_speed_run_candidate",
+      "track_id": 265,
+      "team": 1.0,
+      "speed_kmh": 22.26477037833489
+    },
+    {
+      "frame": 389,
+      "event": "high_speed_run_candidate",
+      "track_id": 265,
+      "team": 1.0,
+      "speed_kmh": 27.943514453268456
+    },
+    {
+      "frame": 390,
+      "event": "high_speed_run_candidate",
+      "track_id": 265,
+      "team": 1.0,
+      "speed_kmh": 29.52219504034237
+    },
+    {
+      "frame": 393,
+      "event": "high_speed_run_candidate",
+      "track_id": 265,
+      "team": 1.0,
+      "speed_kmh": 37.06426850755297
+    },
+    {
+      "frame": 397,
+      "event": "high_speed_run_candidate",
+      "track_id": 265,
+      "team": 1.0,
+      "speed_kmh": 32.44996147917587
+    },
+    {
+      "frame": 409,
+      "event": "high_speed_run_candidate",
+      "track_id": 265,
+      "team": 1.0,
+      "speed_kmh": 28.0303407043156
+    },
+    {
+      "frame": 397,
+      "event": "high_speed_run_candidate",
+      "track_id": 266,
+      "team": 1.0,
+      "speed_kmh": 32.51230536273924
+    },
+    {
+      "frame": 400,
+      "event": "high_speed_run_candidate",
+      "track_id": 266,
+      "team": 1.0,
+      "speed_kmh": 21.39275578320812
+    },
+    {
+      "frame": 402,
+      "event": "high_speed_run_candidate",
+      "track_id": 266,
+      "team": 1.0,
+      "speed_kmh": 26.09999999999959
+    },
+    {
+      "frame": 379,
+      "event": "high_speed_run_candidate",
+      "track_id": 282,
+      "team": 1.0,
+      "speed_kmh": 18.356470248934105
+    },
+    {
+      "frame": 382,
+      "event": "high_speed_run_candidate",
+      "track_id": 282,
+      "team": 1.0,
+      "speed_kmh": 32.935846732701485
+    },
+    {
+      "frame": 389,
+      "event": "high_speed_run_candidate",
+      "track_id": 282,
+      "team": 1.0,
+      "speed_kmh": 19.820443990990867
+    },
+    {
+      "frame": 390,
+      "event": "high_speed_run_candidate",
+      "track_id": 282,
+      "team": 1.0,
+      "speed_kmh": 22.28295312565188
+    },
+    {
+      "frame": 403,
+      "event": "high_speed_run_candidate",
+      "track_id": 291,
+      "team": 1.0,
+      "speed_kmh": 18.02248595505096
+    },
+    {
+      "frame": 414,
+      "event": "high_speed_run_candidate",
+      "track_id": 291,
+      "team": 1.0,
+      "speed_kmh": 23.55525419094479
+    },
+    {
+      "frame": 415,
+      "event": "high_speed_run_candidate",
+      "track_id": 291,
+      "team": 1.0,
+      "speed_kmh": 18.5321342537772
+    },
+    {
+      "frame": 420,
+      "event": "high_speed_run_candidate",
+      "track_id": 291,
+      "team": 1.0,
+      "speed_kmh": 24.892770034691324
+    },
+    {
+      "frame": 426,
+      "event": "high_speed_run_candidate",
+      "track_id": 291,
+      "team": 1.0,
+      "speed_kmh": 27.23894271075862
+    },
+    {
+      "frame": 427,
+      "event": "high_speed_run_candidate",
+      "track_id": 291,
+      "team": 1.0,
+      "speed_kmh": 39.69193872815966
+    },
+    {
+      "frame": 403,
+      "event": "high_speed_run_candidate",
+      "track_id": 296,
+      "team": 1.0,
+      "speed_kmh": 27.914512354687687
+    },
+    {
+      "frame": 409,
+      "event": "high_speed_run_candidate",
+      "track_id": 296,
+      "team": 1.0,
+      "speed_kmh": 31.189902212094346
+    },
+    {
+      "frame": 411,
+      "event": "high_speed_run_candidate",
+      "track_id": 296,
+      "team": 1.0,
+      "speed_kmh": 36.998648623970055
+    },
+    {
+      "frame": 401,
+      "event": "high_speed_run_candidate",
+      "track_id": 301,
+      "team": 1.0,
+      "speed_kmh": 30.253925365148977
+    },
+    {
+      "frame": 421,
+      "event": "high_speed_run_candidate",
+      "track_id": 319,
+      "team": 1.0,
+      "speed_kmh": 32.71100732169516
+    },
+    {
+      "frame": 431,
+      "event": "high_speed_run_candidate",
+      "track_id": 321,
+      "team": 1.0,
+      "speed_kmh": 36.89999999999969
+    },
+    {
+      "frame": 431,
+      "event": "high_speed_run_candidate",
+      "track_id": 322,
+      "team": 1.0,
+      "speed_kmh": 35.4673088914292
+    },
+    {
+      "frame": 437,
+      "event": "high_speed_run_candidate",
+      "track_id": 322,
+      "team": 1.0,
+      "speed_kmh": 24.56521931512076
+    },
+    {
+      "frame": 444,
+      "event": "high_speed_run_candidate",
+      "track_id": 323,
+      "team": 1.0,
+      "speed_kmh": 32.44996147917583
+    },
+    {
+      "frame": 437,
+      "event": "high_speed_run_candidate",
+      "track_id": 325,
+      "team": 1.0,
+      "speed_kmh": 19.98324298005698
+    },
+    {
+      "frame": 444,
+      "event": "high_speed_run_candidate",
+      "track_id": 325,
+      "team": 1.0,
+      "speed_kmh": 31.033691369220257
+    },
+    {
+      "frame": 431,
+      "event": "high_speed_run_candidate",
+      "track_id": 331,
+      "team": 1.0,
+      "speed_kmh": 23.82876413077276
+    },
+    {
+      "frame": 437,
+      "event": "high_speed_run_candidate",
+      "track_id": 331,
+      "team": 1.0,
+      "speed_kmh": 28.81405906844752
+    },
+    {
+      "frame": 444,
+      "event": "high_speed_run_candidate",
+      "track_id": 331,
+      "team": 1.0,
+      "speed_kmh": 27.943514453268225
+    },
+    {
+      "frame": 439,
+      "event": "high_speed_run_candidate",
+      "track_id": 337,
+      "team": 1.0,
+      "speed_kmh": 25.344230112591497
+    },
+    {
+      "frame": 440,
+      "event": "high_speed_run_candidate",
+      "track_id": 337,
+      "team": 1.0,
+      "speed_kmh": 19.75904856008993
+    },
+    {
+      "frame": 441,
+      "event": "high_speed_run_candidate",
+      "track_id": 337,
+      "team": 1.0,
+      "speed_kmh": 26.115512631383712
+    },
+    {
+      "frame": 444,
+      "event": "high_speed_run_candidate",
+      "track_id": 337,
+      "team": 1.0,
+      "speed_kmh": 36.998648623969736
+    },
+    {
+      "frame": 444,
+      "event": "high_speed_run_candidate",
+      "track_id": 341,
+      "team": 1.0,
+      "speed_kmh": 37.075193863282735
+    },
+    {
+      "frame": 454,
+      "event": "high_speed_run_candidate",
+      "track_id": 345,
+      "team": 1.0,
+      "speed_kmh": 37.03147310059384
+    },
+    {
+      "frame": 455,
+      "event": "high_speed_run_candidate",
+      "track_id": 345,
+      "team": 1.0,
+      "speed_kmh": 32.31238152782933
+    },
+    {
+      "frame": 464,
+      "event": "high_speed_run_candidate",
+      "track_id": 345,
+      "team": 1.0,
+      "speed_kmh": 24.183051916579867
+    },
+    {
+      "frame": 486,
+      "event": "high_speed_run_candidate",
+      "track_id": 345,
+      "team": 1.0,
+      "speed_kmh": 26.999999999999872
+    },
+    {
+      "frame": 487,
+      "event": "high_speed_run_candidate",
+      "track_id": 345,
+      "team": 1.0,
+      "speed_kmh": 33.312159941979104
+    },
+    {
+      "frame": 495,
+      "event": "high_speed_run_candidate",
+      "track_id": 345,
+      "team": 1.0,
+      "speed_kmh": 29.82247474640545
+    },
+    {
+      "frame": 468,
+      "event": "high_speed_run_candidate",
+      "track_id": 346,
+      "team": 1.0,
+      "speed_kmh": 34.634312642881966
+    },
+    {
+      "frame": 482,
+      "event": "high_speed_run_candidate",
+      "track_id": 346,
+      "team": 1.0,
+      "speed_kmh": 30.186917696246585
+    },
+    {
+      "frame": 487,
+      "event": "high_speed_run_candidate",
+      "track_id": 346,
+      "team": 1.0,
+      "speed_kmh": 19.92234925906088
+    },
+    {
+      "frame": 497,
+      "event": "high_speed_run_candidate",
+      "track_id": 346,
+      "team": 1.0,
+      "speed_kmh": 29.05202230482382
+    },
+    {
+      "frame": 501,
+      "event": "high_speed_run_candidate",
+      "track_id": 346,
+      "team": 1.0,
+      "speed_kmh": 25.02258979402464
+    },
+    {
+      "frame": 476,
+      "event": "high_speed_run_candidate",
+      "track_id": 356,
+      "team": 1.0,
+      "speed_kmh": 26.96998331478884
+    },
+    {
+      "frame": 482,
+      "event": "high_speed_run_candidate",
+      "track_id": 356,
+      "team": 1.0,
+      "speed_kmh": 22.161072289038856
+    },
+    {
+      "frame": 488,
+      "event": "high_speed_run_candidate",
+      "track_id": 356,
+      "team": 1.0,
+      "speed_kmh": 26.999999999999872
+    },
+    {
+      "frame": 493,
+      "event": "high_speed_run_candidate",
+      "track_id": 356,
+      "team": 1.0,
+      "speed_kmh": 20.128636317445967
+    },
+    {
+      "frame": 495,
+      "event": "high_speed_run_candidate",
+      "track_id": 356,
+      "team": 1.0,
+      "speed_kmh": 39.29198391529742
+    },
+    {
+      "frame": 509,
+      "event": "high_speed_run_candidate",
+      "track_id": 366,
+      "team": 1.0,
+      "speed_kmh": 26.11551263138444
+    },
+    {
+      "frame": 509,
+      "event": "high_speed_run_candidate",
+      "track_id": 367,
+      "team": 1.0,
+      "speed_kmh": 19.800000000001177
+    },
+    {
+      "frame": 510,
+      "event": "high_speed_run_candidate",
+      "track_id": 367,
+      "team": 1.0,
+      "speed_kmh": 38.2896852951277
+    },
+    {
+      "frame": 511,
+      "event": "high_speed_run_candidate",
+      "track_id": 367,
+      "team": 1.0,
+      "speed_kmh": 33.190360046255
+    },
+    {
+      "frame": 513,
+      "event": "high_speed_run_candidate",
+      "track_id": 367,
+      "team": 1.0,
+      "speed_kmh": 22.22836026341164
+    },
+    {
+      "frame": 516,
+      "event": "high_speed_run_candidate",
+      "track_id": 367,
+      "team": 1.0,
+      "speed_kmh": 32.39999999999995
+    },
+    {
+      "frame": 519,
+      "event": "high_speed_run_candidate",
+      "track_id": 367,
+      "team": 1.0,
+      "speed_kmh": 37.80000000000015
+    },
+    {
+      "frame": 529,
+      "event": "high_speed_run_candidate",
+      "track_id": 367,
+      "team": 1.0,
+      "speed_kmh": 35.14612354158002
+    },
+    {
+      "frame": 553,
+      "event": "high_speed_run_candidate",
+      "track_id": 367,
+      "team": 1.0,
+      "speed_kmh": 38.65811687084637
+    },
+    {
+      "frame": 554,
+      "event": "high_speed_run_candidate",
+      "track_id": 367,
+      "team": 1.0,
+      "speed_kmh": 38.479604987577325
+    },
+    {
+      "frame": 559,
+      "event": "high_speed_run_candidate",
+      "track_id": 367,
+      "team": 1.0,
+      "speed_kmh": 36.011248242736634
+    },
+    {
+      "frame": 563,
+      "event": "high_speed_run_candidate",
+      "track_id": 367,
+      "team": 1.0,
+      "speed_kmh": 32.71100732169516
+    },
+    {
+      "frame": 564,
+      "event": "high_speed_run_candidate",
+      "track_id": 367,
+      "team": 1.0,
+      "speed_kmh": 23.41730129626397
+    },
+    {
+      "frame": 508,
+      "event": "high_speed_run_candidate",
+      "track_id": 368,
+      "team": 1.0,
+      "speed_kmh": 20.304925510821104
+    },
+    {
+      "frame": 509,
+      "event": "high_speed_run_candidate",
+      "track_id": 368,
+      "team": 1.0,
+      "speed_kmh": 33.11706508735311
+    },
+    {
+      "frame": 510,
+      "event": "high_speed_run_candidate",
+      "track_id": 368,
+      "team": 1.0,
+      "speed_kmh": 28.030340704315567
+    },
+    {
+      "frame": 511,
+      "event": "high_speed_run_candidate",
+      "track_id": 368,
+      "team": 1.0,
+      "speed_kmh": 29.02412789387547
+    },
+    {
+      "frame": 512,
+      "event": "high_speed_run_candidate",
+      "track_id": 368,
+      "team": 1.0,
+      "speed_kmh": 20.52315765178444
+    },
+    {
+      "frame": 514,
+      "event": "high_speed_run_candidate",
+      "track_id": 368,
+      "team": 1.0,
+      "speed_kmh": 19.820443990990608
+    },
+    {
+      "frame": 515,
+      "event": "high_speed_run_candidate",
+      "track_id": 368,
+      "team": 1.0,
+      "speed_kmh": 22.71497303542376
+    },
+    {
+      "frame": 516,
+      "event": "high_speed_run_candidate",
+      "track_id": 368,
+      "team": 1.0,
+      "speed_kmh": 22.26477037833489
+    },
+    {
+      "frame": 518,
+      "event": "high_speed_run_candidate",
+      "track_id": 368,
+      "team": 1.0,
+      "speed_kmh": 28.60244744772658
+    },
+    {
+      "frame": 520,
+      "event": "high_speed_run_candidate",
+      "track_id": 368,
+      "team": 1.0,
+      "speed_kmh": 32.2622069920827
+    },
+    {
+      "frame": 522,
+      "event": "high_speed_run_candidate",
+      "track_id": 368,
+      "team": 1.0,
+      "speed_kmh": 19.469976887505748
+    },
+    {
+      "frame": 523,
+      "event": "high_speed_run_candidate",
+      "track_id": 368,
+      "team": 1.0,
+      "speed_kmh": 22.228360263410384
+    },
+    {
+      "frame": 524,
+      "event": "high_speed_run_candidate",
+      "track_id": 368,
+      "team": 1.0,
+      "speed_kmh": 18.921416437466743
+    },
+    {
+      "frame": 525,
+      "event": "high_speed_run_candidate",
+      "track_id": 368,
+      "team": 1.0,
+      "speed_kmh": 30.71888669857586
+    },
+    {
+      "frame": 526,
+      "event": "high_speed_run_candidate",
+      "track_id": 368,
+      "team": 1.0,
+      "speed_kmh": 21.068459839295286
+    },
+    {
+      "frame": 529,
+      "event": "high_speed_run_candidate",
+      "track_id": 368,
+      "team": 1.0,
+      "speed_kmh": 18.20137357454124
+    },
+    {
+      "frame": 552,
+      "event": "high_speed_run_candidate",
+      "track_id": 368,
+      "team": 1.0,
+      "speed_kmh": 35.99999999999923
+    },
+    {
+      "frame": 553,
+      "event": "high_speed_run_candidate",
+      "track_id": 368,
+      "team": 1.0,
+      "speed_kmh": 22.57188516717201
+    },
+    {
+      "frame": 554,
+      "event": "high_speed_run_candidate",
+      "track_id": 368,
+      "team": 1.0,
+      "speed_kmh": 32.599386497294645
+    },
+    {
+      "frame": 508,
+      "event": "high_speed_run_candidate",
+      "track_id": 369,
+      "team": 1.0,
+      "speed_kmh": 34.247335662792715
+    },
+    {
+      "frame": 510,
+      "event": "high_speed_run_candidate",
+      "track_id": 369,
+      "team": 1.0,
+      "speed_kmh": 35.36438886789894
+    },
+    {
+      "frame": 511,
+      "event": "high_speed_run_candidate",
+      "track_id": 369,
+      "team": 1.0,
+      "speed_kmh": 39.364069911532845
+    },
+    {
+      "frame": 512,
+      "event": "high_speed_run_candidate",
+      "track_id": 369,
+      "team": 1.0,
+      "speed_kmh": 31.512854520020365
+    },
+    {
+      "frame": 514,
+      "event": "high_speed_run_candidate",
+      "track_id": 369,
+      "team": 1.0,
+      "speed_kmh": 19.73854097951541
+    },
+    {
+      "frame": 515,
+      "event": "high_speed_run_candidate",
+      "track_id": 369,
+      "team": 1.0,
+      "speed_kmh": 22.51799280575425
+    },
+    {
+      "frame": 516,
+      "event": "high_speed_run_candidate",
+      "track_id": 369,
+      "team": 1.0,
+      "speed_kmh": 27.899999999999565
+    },
+    {
+      "frame": 518,
+      "event": "high_speed_run_candidate",
+      "track_id": 369,
+      "team": 1.0,
+      "speed_kmh": 38.794071712054745
+    },
+    {
+      "frame": 523,
+      "event": "high_speed_run_candidate",
+      "track_id": 369,
+      "team": 1.0,
+      "speed_kmh": 18.985520798755523
+    },
+    {
+      "frame": 525,
+      "event": "high_speed_run_candidate",
+      "track_id": 369,
+      "team": 1.0,
+      "speed_kmh": 20.87534430853813
+    },
+    {
+      "frame": 527,
+      "event": "high_speed_run_candidate",
+      "track_id": 369,
+      "team": 1.0,
+      "speed_kmh": 23.675303588338487
+    },
+    {
+      "frame": 528,
+      "event": "high_speed_run_candidate",
+      "track_id": 369,
+      "team": 1.0,
+      "speed_kmh": 18.02248595505097
+    },
+    {
+      "frame": 529,
+      "event": "high_speed_run_candidate",
+      "track_id": 369,
+      "team": 1.0,
+      "speed_kmh": 22.57188516717201
+    },
+    {
+      "frame": 535,
+      "event": "high_speed_run_candidate",
+      "track_id": 369,
+      "team": 1.0,
+      "speed_kmh": 22.94558781116754
+    },
+    {
+      "frame": 518,
+      "event": "high_speed_run_candidate",
+      "track_id": 370,
+      "team": 1.0,
+      "speed_kmh": 19.09188309203688
+    },
+    {
+      "frame": 522,
+      "event": "high_speed_run_candidate",
+      "track_id": 370,
+      "team": 1.0,
+      "speed_kmh": 18.11215061774827
+    },
+    {
+      "frame": 523,
+      "event": "high_speed_run_candidate",
+      "track_id": 370,
+      "team": 1.0,
+      "speed_kmh": 24.29999999999964
+    },
+    {
+      "frame": 525,
+      "event": "high_speed_run_candidate",
+      "track_id": 370,
+      "team": 1.0,
+      "speed_kmh": 27.01499583564693
+    },
+    {
+      "frame": 529,
+      "event": "high_speed_run_candidate",
+      "track_id": 370,
+      "team": 1.0,
+      "speed_kmh": 24.366575467225232
+    },
+    {
+      "frame": 530,
+      "event": "high_speed_run_candidate",
+      "track_id": 370,
+      "team": 1.0,
+      "speed_kmh": 19.07065809037563
+    },
+    {
+      "frame": 534,
+      "event": "high_speed_run_candidate",
+      "track_id": 370,
+      "team": 1.0,
+      "speed_kmh": 22.06377120983646
+    },
+    {
+      "frame": 535,
+      "event": "high_speed_run_candidate",
+      "track_id": 370,
+      "team": 1.0,
+      "speed_kmh": 23.41730129626365
+    },
+    {
+      "frame": 549,
+      "event": "high_speed_run_candidate",
+      "track_id": 370,
+      "team": 1.0,
+      "speed_kmh": 27.13466417702648
+    },
+    {
+      "frame": 511,
+      "event": "high_speed_run_candidate",
+      "track_id": 371,
+      "team": 1.0,
+      "speed_kmh": 23.05124725475828
+    },
+    {
+      "frame": 512,
+      "event": "high_speed_run_candidate",
+      "track_id": 371,
+      "team": 1.0,
+      "speed_kmh": 27.608150970320384
+    },
+    {
+      "frame": 516,
+      "event": "high_speed_run_candidate",
+      "track_id": 371,
+      "team": 1.0,
+      "speed_kmh": 21.957971217760576
+    },
+    {
+      "frame": 518,
+      "event": "high_speed_run_candidate",
+      "track_id": 371,
+      "team": 1.0,
+      "speed_kmh": 33.78298388242206
+    },
+    {
+      "frame": 520,
+      "event": "high_speed_run_candidate",
+      "track_id": 371,
+      "team": 1.0,
+      "speed_kmh": 35.01913762501877
+    },
+    {
+      "frame": 522,
+      "event": "high_speed_run_candidate",
+      "track_id": 371,
+      "team": 1.0,
+      "speed_kmh": 25.344230112591656
+    },
+    {
+      "frame": 523,
+      "event": "high_speed_run_candidate",
+      "track_id": 371,
+      "team": 1.0,
+      "speed_kmh": 33.40928014788705
+    },
+    {
+      "frame": 511,
+      "event": "high_speed_run_candidate",
+      "track_id": 373,
+      "team": 1.0,
+      "speed_kmh": 36.998648623969714
+    },
+    {
+      "frame": 514,
+      "event": "high_speed_run_candidate",
+      "track_id": 373,
+      "team": 1.0,
+      "speed_kmh": 37.81071276767888
+    },
+    {
+      "frame": 523,
+      "event": "high_speed_run_candidate",
+      "track_id": 373,
+      "team": 1.0,
+      "speed_kmh": 23.40000000000046
+    },
+    {
+      "frame": 527,
+      "event": "high_speed_run_candidate",
+      "track_id": 373,
+      "team": 1.0,
+      "speed_kmh": 39.64088798198251
+    },
+    {
+      "frame": 529,
+      "event": "high_speed_run_candidate",
+      "track_id": 373,
+      "team": 1.0,
+      "speed_kmh": 23.55525419094352
+    },
+    {
+      "frame": 535,
+      "event": "high_speed_run_candidate",
+      "track_id": 373,
+      "team": 1.0,
+      "speed_kmh": 22.5
+    },
+    {
+      "frame": 510,
+      "event": "high_speed_run_candidate",
+      "track_id": 378,
+      "team": 1.0,
+      "speed_kmh": 24.21652328473285
+    },
+    {
+      "frame": 512,
+      "event": "high_speed_run_candidate",
+      "track_id": 378,
+      "team": 1.0,
+      "speed_kmh": 33.818929610500966
+    },
+    {
+      "frame": 514,
+      "event": "high_speed_run_candidate",
+      "track_id": 378,
+      "team": 1.0,
+      "speed_kmh": 26.75892374517345
+    },
+    {
+      "frame": 515,
+      "event": "high_speed_run_candidate",
+      "track_id": 378,
+      "team": 1.0,
+      "speed_kmh": 22.57188516717201
+    },
+    {
+      "frame": 516,
+      "event": "high_speed_run_candidate",
+      "track_id": 378,
+      "team": 1.0,
+      "speed_kmh": 20.124611797497995
+    },
+    {
+      "frame": 519,
+      "event": "high_speed_run_candidate",
+      "track_id": 378,
+      "team": 1.0,
+      "speed_kmh": 27.37243138634301
+    },
+    {
+      "frame": 520,
+      "event": "high_speed_run_candidate",
+      "track_id": 378,
+      "team": 1.0,
+      "speed_kmh": 27.9145123546868
+    },
+    {
+      "frame": 521,
+      "event": "high_speed_run_candidate",
+      "track_id": 378,
+      "team": 1.0,
+      "speed_kmh": 34.763774248490314
+    },
+    {
+      "frame": 523,
+      "event": "high_speed_run_candidate",
+      "track_id": 378,
+      "team": 1.0,
+      "speed_kmh": 30.25392536514836
+    },
+    {
+      "frame": 527,
+      "event": "high_speed_run_candidate",
+      "track_id": 378,
+      "team": 1.0,
+      "speed_kmh": 26.65276721093012
+    },
+    {
+      "frame": 528,
+      "event": "high_speed_run_candidate",
+      "track_id": 378,
+      "team": 1.0,
+      "speed_kmh": 25.022589794023936
+    },
+    {
+      "frame": 529,
+      "event": "high_speed_run_candidate",
+      "track_id": 378,
+      "team": 1.0,
+      "speed_kmh": 22.228360263411805
+    },
+    {
+      "frame": 532,
+      "event": "high_speed_run_candidate",
+      "track_id": 378,
+      "team": 1.0,
+      "speed_kmh": 32.611807677587684
+    },
+    {
+      "frame": 533,
+      "event": "high_speed_run_candidate",
+      "track_id": 378,
+      "team": 1.0,
+      "speed_kmh": 26.84958100231748
+    },
+    {
+      "frame": 535,
+      "event": "high_speed_run_candidate",
+      "track_id": 378,
+      "team": 1.0,
+      "speed_kmh": 19.42832983043008
+    },
+    {
+      "frame": 550,
+      "event": "high_speed_run_candidate",
+      "track_id": 378,
+      "team": 1.0,
+      "speed_kmh": 19.98324298005698
+    },
+    {
+      "frame": 513,
+      "event": "high_speed_run_candidate",
+      "track_id": 380,
+      "team": 1.0,
+      "speed_kmh": 22.94558781116784
+    },
+    {
+      "frame": 514,
+      "event": "high_speed_run_candidate",
+      "track_id": 380,
+      "team": 1.0,
+      "speed_kmh": 25.2160663070189
+    },
+    {
+      "frame": 516,
+      "event": "high_speed_run_candidate",
+      "track_id": 380,
+      "team": 1.0,
+      "speed_kmh": 19.3865933056844
+    },
+    {
+      "frame": 519,
+      "event": "high_speed_run_candidate",
+      "track_id": 380,
+      "team": 1.0,
+      "speed_kmh": 20.52315765178449
+    },
+    {
+      "frame": 523,
+      "event": "high_speed_run_candidate",
+      "track_id": 380,
+      "team": 1.0,
+      "speed_kmh": 33.34861316456842
+    },
+    {
+      "frame": 525,
+      "event": "high_speed_run_candidate",
+      "track_id": 380,
+      "team": 1.0,
+      "speed_kmh": 24.233241632105315
+    },
+    {
+      "frame": 531,
+      "event": "high_speed_run_candidate",
+      "track_id": 380,
+      "team": 1.0,
+      "speed_kmh": 34.20000000000023
+    },
+    {
+      "frame": 532,
+      "event": "high_speed_run_candidate",
+      "track_id": 380,
+      "team": 1.0,
+      "speed_kmh": 24.957764322951864
+    },
+    {
+      "frame": 533,
+      "event": "high_speed_run_candidate",
+      "track_id": 380,
+      "team": 1.0,
+      "speed_kmh": 37.26043478007189
+    },
+    {
+      "frame": 535,
+      "event": "high_speed_run_candidate",
+      "track_id": 380,
+      "team": 1.0,
+      "speed_kmh": 21.916432191394943
+    },
+    {
+      "frame": 520,
+      "event": "high_speed_run_candidate",
+      "track_id": 390,
+      "team": 1.0,
+      "speed_kmh": 18.02248595505096
+    },
+    {
+      "frame": 525,
+      "event": "high_speed_run_candidate",
+      "track_id": 391,
+      "team": 1.0,
+      "speed_kmh": 30.718886698576817
+    },
+    {
+      "frame": 533,
+      "event": "high_speed_run_candidate",
+      "track_id": 391,
+      "team": 1.0,
+      "speed_kmh": 25.524363361306385
+    },
+    {
+      "frame": 554,
+      "event": "high_speed_run_candidate",
+      "track_id": 392,
+      "team": 1.0,
+      "speed_kmh": 33.48193542792888
+    },
+    {
+      "frame": 557,
+      "event": "high_speed_run_candidate",
+      "track_id": 392,
+      "team": 1.0,
+      "speed_kmh": 22.06377120983621
+    },
+    {
+      "frame": 560,
+      "event": "high_speed_run_candidate",
+      "track_id": 392,
+      "team": 1.0,
+      "speed_kmh": 20.12461179749805
+    },
+    {
+      "frame": 561,
+      "event": "high_speed_run_candidate",
+      "track_id": 392,
+      "team": 1.0,
+      "speed_kmh": 19.738540979515538
+    },
+    {
+      "frame": 563,
+      "event": "high_speed_run_candidate",
+      "track_id": 392,
+      "team": 1.0,
+      "speed_kmh": 26.46979410573504
+    },
+    {
+      "frame": 564,
+      "event": "high_speed_run_candidate",
+      "track_id": 392,
+      "team": 1.0,
+      "speed_kmh": 35.053815769470845
+    },
+    {
+      "frame": 532,
+      "event": "high_speed_run_candidate",
+      "track_id": 402,
+      "team": 1.0,
+      "speed_kmh": 26.65276721093005
+    },
+    {
+      "frame": 534,
+      "event": "high_speed_run_candidate",
+      "track_id": 402,
+      "team": 1.0,
+      "speed_kmh": 24.482646915724192
+    },
+    {
+      "frame": 543,
+      "event": "high_speed_run_candidate",
+      "track_id": 402,
+      "team": 1.0,
+      "speed_kmh": 38.66984871964221
+    },
+    {
+      "frame": 559,
+      "event": "high_speed_run_candidate",
+      "track_id": 402,
+      "team": 1.0,
+      "speed_kmh": 33.00681747760595
+    },
+    {
+      "frame": 535,
+      "event": "high_speed_run_candidate",
+      "track_id": 404,
+      "team": 1.0,
+      "speed_kmh": 32.46243983436868
+    },
+    {
+      "frame": 550,
+      "event": "high_speed_run_candidate",
+      "track_id": 404,
+      "team": 1.0,
+      "speed_kmh": 31.20937359191942
+    },
+    {
+      "frame": 551,
+      "event": "high_speed_run_candidate",
+      "track_id": 404,
+      "team": 1.0,
+      "speed_kmh": 36.998648623970055
+    },
+    {
+      "frame": 552,
+      "event": "high_speed_run_candidate",
+      "track_id": 404,
+      "team": 1.0,
+      "speed_kmh": 23.39999999999998
+    },
+    {
+      "frame": 553,
+      "event": "high_speed_run_candidate",
+      "track_id": 404,
+      "team": 1.0,
+      "speed_kmh": 25.21606630701952
+    },
+    {
+      "frame": 554,
+      "event": "high_speed_run_candidate",
+      "track_id": 404,
+      "team": 1.0,
+      "speed_kmh": 21.618741869035777
+    },
+    {
+      "frame": 555,
+      "event": "high_speed_run_candidate",
+      "track_id": 404,
+      "team": 1.0,
+      "speed_kmh": 21.971800108320643
+    },
+    {
+      "frame": 557,
+      "event": "high_speed_run_candidate",
+      "track_id": 404,
+      "team": 1.0,
+      "speed_kmh": 28.03034070431544
+    },
+    {
+      "frame": 559,
+      "event": "high_speed_run_candidate",
+      "track_id": 404,
+      "team": 1.0,
+      "speed_kmh": 19.799999999999898
+    },
+    {
+      "frame": 560,
+      "event": "high_speed_run_candidate",
+      "track_id": 404,
+      "team": 1.0,
+      "speed_kmh": 27.01499583564662
+    },
+    {
+      "frame": 562,
+      "event": "high_speed_run_candidate",
+      "track_id": 404,
+      "team": 1.0,
+      "speed_kmh": 24.482646915723908
+    },
+    {
+      "frame": 564,
+      "event": "high_speed_run_candidate",
+      "track_id": 404,
+      "team": 1.0,
+      "speed_kmh": 24.14953415699764
+    },
+    {
+      "frame": 535,
+      "event": "high_speed_run_candidate",
+      "track_id": 410,
+      "team": 1.0,
+      "speed_kmh": 20.778113485107266
+    },
+    {
+      "frame": 550,
+      "event": "high_speed_run_candidate",
+      "track_id": 410,
+      "team": 1.0,
+      "speed_kmh": 32.26220699208391
+    },
+    {
+      "frame": 551,
+      "event": "high_speed_run_candidate",
+      "track_id": 410,
+      "team": 1.0,
+      "speed_kmh": 39.47708195902965
+    },
+    {
+      "frame": 552,
+      "event": "high_speed_run_candidate",
+      "track_id": 410,
+      "team": 1.0,
+      "speed_kmh": 33.20256014225405
+    },
+    {
+      "frame": 554,
+      "event": "high_speed_run_candidate",
+      "track_id": 410,
+      "team": 1.0,
+      "speed_kmh": 28.24623868765582
+    },
+    {
+      "frame": 555,
+      "event": "high_speed_run_candidate",
+      "track_id": 410,
+      "team": 1.0,
+      "speed_kmh": 32.61180767758772
+    },
+    {
+      "frame": 558,
+      "event": "high_speed_run_candidate",
+      "track_id": 410,
+      "team": 1.0,
+      "speed_kmh": 37.98170612281628
+    },
+    {
+      "frame": 560,
+      "event": "high_speed_run_candidate",
+      "track_id": 410,
+      "team": 1.0,
+      "speed_kmh": 23.46912865872874
+    },
+    {
+      "frame": 563,
+      "event": "high_speed_run_candidate",
+      "track_id": 410,
+      "team": 1.0,
+      "speed_kmh": 22.51799280575424
+    },
+    {
+      "frame": 564,
+      "event": "high_speed_run_candidate",
+      "track_id": 410,
+      "team": 1.0,
+      "speed_kmh": 37.29302883918083
+    },
+    {
+      "frame": 552,
+      "event": "high_speed_run_candidate",
+      "track_id": 430,
+      "team": 1.0,
+      "speed_kmh": 35.14612354158002
+    },
+    {
+      "frame": 555,
+      "event": "high_speed_run_candidate",
+      "track_id": 430,
+      "team": 1.0,
+      "speed_kmh": 26.2392835268035
+    },
+    {
+      "frame": 557,
+      "event": "high_speed_run_candidate",
+      "track_id": 430,
+      "team": 1.0,
+      "speed_kmh": 28.8561951753872
+    },
+    {
+      "frame": 558,
+      "event": "high_speed_run_candidate",
+      "track_id": 430,
+      "team": 1.0,
+      "speed_kmh": 28.602447447726448
+    },
+    {
+      "frame": 559,
+      "event": "high_speed_run_candidate",
+      "track_id": 430,
+      "team": 1.0,
+      "speed_kmh": 18.20137357454129
+    },
+    {
+      "frame": 560,
+      "event": "high_speed_run_candidate",
+      "track_id": 430,
+      "team": 1.0,
+      "speed_kmh": 38.4480168539287
+    },
+    {
+      "frame": 548,
+      "event": "high_speed_run_candidate",
+      "track_id": 441,
+      "team": 1.0,
+      "speed_kmh": 38.06691476860073
+    },
+    {
+      "frame": 549,
+      "event": "high_speed_run_candidate",
+      "track_id": 441,
+      "team": 1.0,
+      "speed_kmh": 29.700000000001125
+    },
+    {
+      "frame": 550,
+      "event": "high_speed_run_candidate",
+      "track_id": 441,
+      "team": 1.0,
+      "speed_kmh": 36.72397037358577
+    },
+    {
+      "frame": 551,
+      "event": "high_speed_run_candidate",
+      "track_id": 441,
+      "team": 1.0,
+      "speed_kmh": 27.958004220615248
+    },
+    {
+      "frame": 552,
+      "event": "high_speed_run_candidate",
+      "track_id": 441,
+      "team": 1.0,
+      "speed_kmh": 32.599386497294645
+    },
+    {
+      "frame": 553,
+      "event": "high_speed_run_candidate",
+      "track_id": 441,
+      "team": 1.0,
+      "speed_kmh": 30.61323243305121
+    },
+    {
+      "frame": 554,
+      "event": "high_speed_run_candidate",
+      "track_id": 441,
+      "team": 1.0,
+      "speed_kmh": 34.74046631811419
+    },
+    {
+      "frame": 555,
+      "event": "high_speed_run_candidate",
+      "track_id": 441,
+      "team": 1.0,
+      "speed_kmh": 38.06691476860204
+    },
+    {
+      "frame": 557,
+      "event": "high_speed_run_candidate",
+      "track_id": 441,
+      "team": 1.0,
+      "speed_kmh": 38.71046370169116
+    },
+    {
+      "frame": 559,
+      "event": "high_speed_run_candidate",
+      "track_id": 441,
+      "team": 1.0,
+      "speed_kmh": 36.280159867343954
+    },
+    {
+      "frame": 562,
+      "event": "high_speed_run_candidate",
+      "track_id": 441,
+      "team": 1.0,
+      "speed_kmh": 26.485090145212403
+    },
+    {
+      "frame": 563,
+      "event": "high_speed_run_candidate",
+      "track_id": 441,
+      "team": 1.0,
+      "speed_kmh": 39.64088798198123
+    },
+    {
+      "frame": 552,
+      "event": "high_speed_run_candidate",
+      "track_id": 448,
+      "team": 1.0,
+      "speed_kmh": 20.875344308536825
+    },
+    {
+      "frame": 562,
+      "event": "high_speed_run_candidate",
+      "track_id": 448,
+      "team": 1.0,
+      "speed_kmh": 22.16997970229125
+    },
+    {
+      "frame": 563,
+      "event": "high_speed_run_candidate",
+      "track_id": 448,
+      "team": 1.0,
+      "speed_kmh": 19.656296701056828
+    },
+    {
+      "frame": 552,
+      "event": "high_speed_run_candidate",
+      "track_id": 453,
+      "team": 1.0,
+      "speed_kmh": 25.200000000000024
+    },
+    {
+      "frame": 553,
+      "event": "high_speed_run_candidate",
+      "track_id": 453,
+      "team": 1.0,
+      "speed_kmh": 22.66142096162552
+    },
+    {
+      "frame": 554,
+      "event": "high_speed_run_candidate",
+      "track_id": 453,
+      "team": 1.0,
+      "speed_kmh": 23.623928547131992
+    },
+    {
+      "frame": 555,
+      "event": "high_speed_run_candidate",
+      "track_id": 453,
+      "team": 1.0,
+      "speed_kmh": 28.131299294558005
+    },
+    {
+      "frame": 556,
+      "event": "high_speed_run_candidate",
+      "track_id": 453,
+      "team": 1.0,
+      "speed_kmh": 25.344230112591703
+    },
+    {
+      "frame": 557,
+      "event": "high_speed_run_candidate",
+      "track_id": 453,
+      "team": 1.0,
+      "speed_kmh": 31.51285452002083
+    },
+    {
+      "frame": 558,
+      "event": "high_speed_run_candidate",
+      "track_id": 453,
+      "team": 1.0,
+      "speed_kmh": 31.70504691685541
+    },
+    {
+      "frame": 560,
+      "event": "high_speed_run_candidate",
+      "track_id": 453,
+      "team": 1.0,
+      "speed_kmh": 30.15335802195172
+    },
+    {
+      "frame": 562,
+      "event": "high_speed_run_candidate",
+      "track_id": 453,
+      "team": 1.0,
+      "speed_kmh": 19.8
+    },
+    {
+      "frame": 563,
+      "event": "high_speed_run_candidate",
+      "track_id": 453,
+      "team": 1.0,
+      "speed_kmh": 18.02248595505069
+    },
+    {
+      "frame": 557,
+      "event": "high_speed_run_candidate",
+      "track_id": 457,
+      "team": 1.0,
+      "speed_kmh": 31.499999999999904
+    },
+    {
+      "frame": 560,
+      "event": "high_speed_run_candidate",
+      "track_id": 457,
+      "team": 1.0,
+      "speed_kmh": 30.81103698352265
+    },
+    {
+      "frame": 561,
+      "event": "high_speed_run_candidate",
+      "track_id": 457,
+      "team": 1.0,
+      "speed_kmh": 35.28413241104286
+    },
+    {
+      "frame": 562,
+      "event": "high_speed_run_candidate",
+      "track_id": 457,
+      "team": 1.0,
+      "speed_kmh": 22.99847821052532
+    },
+    {
+      "frame": 563,
+      "event": "high_speed_run_candidate",
+      "track_id": 457,
+      "team": 1.0,
+      "speed_kmh": 21.60000000000002
+    },
+    {
+      "frame": 564,
+      "event": "high_speed_run_candidate",
+      "track_id": 457,
+      "team": 1.0,
+      "speed_kmh": 20.70000000000004
+    },
+    {
+      "frame": 555,
+      "event": "high_speed_run_candidate",
+      "track_id": 458,
+      "team": 1.0,
+      "speed_kmh": 34.17927003316482
+    },
+    {
+      "frame": 556,
+      "event": "high_speed_run_candidate",
+      "track_id": 458,
+      "team": 1.0,
+      "speed_kmh": 27.134664177026764
+    },
+    {
+      "frame": 557,
+      "event": "high_speed_run_candidate",
+      "track_id": 458,
+      "team": 1.0,
+      "speed_kmh": 22.51799280575424
+    },
+    {
+      "frame": 559,
+      "event": "high_speed_run_candidate",
+      "track_id": 458,
+      "team": 1.0,
+      "speed_kmh": 28.926285623978792
+    },
+    {
+      "frame": 563,
+      "event": "high_speed_run_candidate",
+      "track_id": 458,
+      "team": 1.0,
+      "speed_kmh": 36.28015986734332
+    },
+    {
+      "frame": 564,
+      "event": "high_speed_run_candidate",
+      "track_id": 458,
+      "team": 1.0,
+      "speed_kmh": 39.85486168587209
+    },
+    {
+      "frame": 563,
+      "event": "high_speed_run_candidate",
+      "track_id": 465,
+      "team": 1.0,
+      "speed_kmh": 18.3564702489337
+    },
+    {
+      "frame": 564,
+      "event": "high_speed_run_candidate",
+      "track_id": 465,
+      "team": 1.0,
+      "speed_kmh": 32.449961479175855
+    },
+    {
+      "frame": 596,
+      "event": "high_speed_run_candidate",
+      "track_id": 483,
+      "team": 1.0,
+      "speed_kmh": 22.51799280575424
+    },
+    {
+      "frame": 597,
+      "event": "high_speed_run_candidate",
+      "track_id": 483,
+      "team": 1.0,
+      "speed_kmh": 24.76226968595577
+    },
+    {
+      "frame": 599,
+      "event": "high_speed_run_candidate",
+      "track_id": 483,
+      "team": 1.0,
+      "speed_kmh": 22.66142096162552
+    },
+    {
+      "frame": 608,
+      "event": "high_speed_run_candidate",
+      "track_id": 483,
+      "team": 1.0,
+      "speed_kmh": 23.469128658729613
+    },
+    {
+      "frame": 610,
+      "event": "high_speed_run_candidate",
+      "track_id": 483,
+      "team": 1.0,
+      "speed_kmh": 27.238942710758856
+    },
+    {
+      "frame": 611,
+      "event": "high_speed_run_candidate",
+      "track_id": 483,
+      "team": 1.0,
+      "speed_kmh": 25.26420392571272
+    },
+    {
+      "frame": 616,
+      "event": "high_speed_run_candidate",
+      "track_id": 483,
+      "team": 1.0,
+      "speed_kmh": 34.211840055746706
+    },
+    {
+      "frame": 627,
+      "event": "high_speed_run_candidate",
+      "track_id": 483,
+      "team": 1.0,
+      "speed_kmh": 22.99847821052518
+    },
+    {
+      "frame": 629,
+      "event": "high_speed_run_candidate",
+      "track_id": 483,
+      "team": 1.0,
+      "speed_kmh": 32.44996147917583
+    },
+    {
+      "frame": 630,
+      "event": "high_speed_run_candidate",
+      "track_id": 483,
+      "team": 1.0,
+      "speed_kmh": 20.77811348510741
+    },
+    {
+      "frame": 634,
+      "event": "high_speed_run_candidate",
+      "track_id": 483,
+      "team": 1.0,
+      "speed_kmh": 31.65390971112421
+    },
+    {
+      "frame": 635,
+      "event": "high_speed_run_candidate",
+      "track_id": 483,
+      "team": 1.0,
+      "speed_kmh": 18.98552079875581
+    },
+    {
+      "frame": 636,
+      "event": "high_speed_run_candidate",
+      "track_id": 483,
+      "team": 1.0,
+      "speed_kmh": 32.52475979926681
+    },
+    {
+      "frame": 638,
+      "event": "high_speed_run_candidate",
+      "track_id": 483,
+      "team": 1.0,
+      "speed_kmh": 19.09188309203688
+    },
+    {
+      "frame": 641,
+      "event": "high_speed_run_candidate",
+      "track_id": 483,
+      "team": 1.0,
+      "speed_kmh": 18.79255171603899
+    },
+    {
+      "frame": 642,
+      "event": "high_speed_run_candidate",
+      "track_id": 483,
+      "team": 1.0,
+      "speed_kmh": 30.038974682901763
+    },
+    {
+      "frame": 644,
+      "event": "high_speed_run_candidate",
+      "track_id": 483,
+      "team": 1.0,
+      "speed_kmh": 27.725259241348923
+    },
+    {
+      "frame": 650,
+      "event": "high_speed_run_candidate",
+      "track_id": 483,
+      "team": 1.0,
+      "speed_kmh": 19.2608411031293
+    },
+    {
+      "frame": 651,
+      "event": "high_speed_run_candidate",
+      "track_id": 483,
+      "team": 1.0,
+      "speed_kmh": 19.23980249378882
+    },
+    {
+      "frame": 627,
+      "event": "high_speed_run_candidate",
+      "track_id": 484,
+      "team": 1.0,
+      "speed_kmh": 22.282953125652018
+    },
+    {
+      "frame": 630,
+      "event": "high_speed_run_candidate",
+      "track_id": 484,
+      "team": 1.0,
+      "speed_kmh": 18.98552079875549
+    },
+    {
+      "frame": 631,
+      "event": "high_speed_run_candidate",
+      "track_id": 484,
+      "team": 1.0,
+      "speed_kmh": 18.53213425377633
+    },
+    {
+      "frame": 632,
+      "event": "high_speed_run_candidate",
+      "track_id": 484,
+      "team": 1.0,
+      "speed_kmh": 18.112150617748696
+    },
+    {
+      "frame": 633,
+      "event": "high_speed_run_candidate",
+      "track_id": 484,
+      "team": 1.0,
+      "speed_kmh": 31.072817702938064
+    },
+    {
+      "frame": 634,
+      "event": "high_speed_run_candidate",
+      "track_id": 484,
+      "team": 1.0,
+      "speed_kmh": 27.72525924134861
+    },
+    {
+      "frame": 639,
+      "event": "high_speed_run_candidate",
+      "track_id": 484,
+      "team": 1.0,
+      "speed_kmh": 21.183484132692104
+    },
+    {
+      "frame": 640,
+      "event": "high_speed_run_candidate",
+      "track_id": 484,
+      "team": 1.0,
+      "speed_kmh": 20.224984548819823
+    },
+    {
+      "frame": 642,
+      "event": "high_speed_run_candidate",
+      "track_id": 484,
+      "team": 1.0,
+      "speed_kmh": 30.36083002817925
+    },
+    {
+      "frame": 646,
+      "event": "high_speed_run_candidate",
+      "track_id": 484,
+      "team": 1.0,
+      "speed_kmh": 25.36020504648948
+    },
+    {
+      "frame": 650,
+      "event": "high_speed_run_candidate",
+      "track_id": 484,
+      "team": 1.0,
+      "speed_kmh": 19.65629670105692
+    },
+    {
+      "frame": 651,
+      "event": "high_speed_run_candidate",
+      "track_id": 484,
+      "team": 1.0,
+      "speed_kmh": 30.038974682901355
+    },
+    {
+      "frame": 653,
+      "event": "high_speed_run_candidate",
+      "track_id": 484,
+      "team": 1.0,
+      "speed_kmh": 29.917386249470724
+    },
+    {
+      "frame": 606,
+      "event": "high_speed_run_candidate",
+      "track_id": 485,
+      "team": 1.0,
+      "speed_kmh": 22.228360263411687
+    },
+    {
+      "frame": 609,
+      "event": "high_speed_run_candidate",
+      "track_id": 485,
+      "team": 1.0,
+      "speed_kmh": 18.46645607581528
+    },
+    {
+      "frame": 620,
+      "event": "high_speed_run_candidate",
+      "track_id": 485,
+      "team": 2.0,
+      "speed_kmh": 37.84283287493117
+    },
+    {
+      "frame": 630,
+      "event": "high_speed_run_candidate",
+      "track_id": 485,
+      "team": 1.0,
+      "speed_kmh": 26.2392835268035
+    },
+    {
+      "frame": 634,
+      "event": "high_speed_run_candidate",
+      "track_id": 485,
+      "team": 1.0,
+      "speed_kmh": 22.571885167172034
+    },
+    {
+      "frame": 635,
+      "event": "high_speed_run_candidate",
+      "track_id": 485,
+      "team": 1.0,
+      "speed_kmh": 18.46645607581481
+    },
+    {
+      "frame": 639,
+      "event": "high_speed_run_candidate",
+      "track_id": 485,
+      "team": 1.0,
+      "speed_kmh": 18.201373574540018
+    },
+    {
+      "frame": 640,
+      "event": "high_speed_run_candidate",
+      "track_id": 485,
+      "team": 1.0,
+      "speed_kmh": 25.471749056552373
+    },
+    {
+      "frame": 642,
+      "event": "high_speed_run_candidate",
+      "track_id": 485,
+      "team": 1.0,
+      "speed_kmh": 20.77811348510773
+    },
+    {
+      "frame": 646,
+      "event": "high_speed_run_candidate",
+      "track_id": 485,
+      "team": 1.0,
+      "speed_kmh": 25.26420392571284
+    },
+    {
+      "frame": 647,
+      "event": "high_speed_run_candidate",
+      "track_id": 485,
+      "team": 1.0,
+      "speed_kmh": 24.5652193151217
+    },
+    {
+      "frame": 650,
+      "event": "high_speed_run_candidate",
+      "track_id": 485,
+      "team": 1.0,
+      "speed_kmh": 22.998478210524848
+    },
+    {
+      "frame": 686,
+      "event": "high_speed_run_candidate",
+      "track_id": 485,
+      "team": 1.0,
+      "speed_kmh": 25.74062936293503
+    },
+    {
+      "frame": 687,
+      "event": "high_speed_run_candidate",
+      "track_id": 485,
+      "team": 1.0,
+      "speed_kmh": 23.96434852024985
+    },
+    {
+      "frame": 688,
+      "event": "high_speed_run_candidate",
+      "track_id": 485,
+      "team": 1.0,
+      "speed_kmh": 27.914512354687687
+    },
+    {
+      "frame": 690,
+      "event": "high_speed_run_candidate",
+      "track_id": 485,
+      "team": 1.0,
+      "speed_kmh": 27.01499583564628
+    },
+    {
+      "frame": 691,
+      "event": "high_speed_run_candidate",
+      "track_id": 485,
+      "team": 1.0,
+      "speed_kmh": 31.03369136921969
+    },
+    {
+      "frame": 692,
+      "event": "high_speed_run_candidate",
+      "track_id": 485,
+      "team": 1.0,
+      "speed_kmh": 35.660902961086165
+    },
+    {
+      "frame": 694,
+      "event": "high_speed_run_candidate",
+      "track_id": 485,
+      "team": 1.0,
+      "speed_kmh": 31.81980515339464
+    },
+    {
+      "frame": 695,
+      "event": "high_speed_run_candidate",
+      "track_id": 485,
+      "team": 1.0,
+      "speed_kmh": 37.45557368403276
+    },
+    {
+      "frame": 696,
+      "event": "high_speed_run_candidate",
+      "track_id": 485,
+      "team": 1.0,
+      "speed_kmh": 35.728979834302514
+    },
+    {
+      "frame": 697,
+      "event": "high_speed_run_candidate",
+      "track_id": 485,
+      "team": 1.0,
+      "speed_kmh": 35.14612354158
+    },
+    {
+      "frame": 634,
+      "event": "high_speed_run_candidate",
+      "track_id": 488,
+      "team": 1.0,
+      "speed_kmh": 22.71943001045581
+    },
+    {
+      "frame": 657,
+      "event": "high_speed_run_candidate",
+      "track_id": 488,
+      "team": 1.0,
+      "speed_kmh": 28.1312992945582
+    },
+    {
+      "frame": 658,
+      "event": "high_speed_run_candidate",
+      "track_id": 488,
+      "team": 1.0,
+      "speed_kmh": 37.84283287493172
+    },
+    {
+      "frame": 664,
+      "event": "high_speed_run_candidate",
+      "track_id": 488,
+      "team": 1.0,
+      "speed_kmh": 25.344230112591312
+    },
+    {
+      "frame": 670,
+      "event": "high_speed_run_candidate",
+      "track_id": 488,
+      "team": 1.0,
+      "speed_kmh": 18.921416437465872
+    },
+    {
+      "frame": 674,
+      "event": "high_speed_run_candidate",
+      "track_id": 488,
+      "team": 1.0,
+      "speed_kmh": 25.74062936293503
+    },
+    {
+      "frame": 680,
+      "event": "high_speed_run_candidate",
+      "track_id": 488,
+      "team": 1.0,
+      "speed_kmh": 18.46645607581528
+    },
+    {
+      "frame": 681,
+      "event": "high_speed_run_candidate",
+      "track_id": 488,
+      "team": 1.0,
+      "speed_kmh": 30.994515643900467
+    },
+    {
+      "frame": 682,
+      "event": "high_speed_run_candidate",
+      "track_id": 488,
+      "team": 1.0,
+      "speed_kmh": 38.44801685392904
+    },
+    {
+      "frame": 684,
+      "event": "high_speed_run_candidate",
+      "track_id": 488,
+      "team": 1.0,
+      "speed_kmh": 30.758413483143283
+    },
+    {
+      "frame": 686,
+      "event": "high_speed_run_candidate",
+      "track_id": 488,
+      "team": 1.0,
+      "speed_kmh": 19.65629670105797
+    },
+    {
+      "frame": 603,
+      "event": "high_speed_run_candidate",
+      "track_id": 491,
+      "team": 1.0,
+      "speed_kmh": 36.94387635319285
+    },
+    {
+      "frame": 606,
+      "event": "high_speed_run_candidate",
+      "track_id": 492,
+      "team": 1.0,
+      "speed_kmh": 27.000000000000384
+    },
+    {
+      "frame": 607,
+      "event": "high_speed_run_candidate",
+      "track_id": 492,
+      "team": 1.0,
+      "speed_kmh": 19.09188309203688
+    },
+    {
+      "frame": 625,
+      "event": "high_speed_run_candidate",
+      "track_id": 492,
+      "team": 1.0,
+      "speed_kmh": 32.44996147917551
+    },
+    {
+      "frame": 626,
+      "event": "high_speed_run_candidate",
+      "track_id": 492,
+      "team": 1.0,
+      "speed_kmh": 19.134262462922653
+    },
+    {
+      "frame": 627,
+      "event": "high_speed_run_candidate",
+      "track_id": 492,
+      "team": 1.0,
+      "speed_kmh": 21.67487024182628
+    },
+    {
+      "frame": 631,
+      "event": "high_speed_run_candidate",
+      "track_id": 492,
+      "team": 1.0,
+      "speed_kmh": 18.98552079875604
+    },
+    {
+      "frame": 633,
+      "event": "high_speed_run_candidate",
+      "track_id": 492,
+      "team": 1.0,
+      "speed_kmh": 33.890706690772696
+    },
+    {
+      "frame": 634,
+      "event": "high_speed_run_candidate",
+      "track_id": 492,
+      "team": 1.0,
+      "speed_kmh": 22.517992805754265
+    },
+    {
+      "frame": 639,
+      "event": "high_speed_run_candidate",
+      "track_id": 492,
+      "team": 1.0,
+      "speed_kmh": 26.999999999999744
+    },
+    {
+      "frame": 640,
+      "event": "high_speed_run_candidate",
+      "track_id": 492,
+      "team": 1.0,
+      "speed_kmh": 18.553975315279224
+    },
+    {
+      "frame": 642,
+      "event": "high_speed_run_candidate",
+      "track_id": 492,
+      "team": 1.0,
+      "speed_kmh": 33.602678464669786
+    },
+    {
+      "frame": 644,
+      "event": "high_speed_run_candidate",
+      "track_id": 492,
+      "team": 1.0,
+      "speed_kmh": 25.344230112591312
+    },
+    {
+      "frame": 646,
+      "event": "high_speed_run_candidate",
+      "track_id": 492,
+      "team": 1.0,
+      "speed_kmh": 19.983242980057177
+    },
+    {
+      "frame": 649,
+      "event": "high_speed_run_candidate",
+      "track_id": 492,
+      "team": 1.0,
+      "speed_kmh": 26.48509014521177
+    },
+    {
+      "frame": 650,
+      "event": "high_speed_run_candidate",
+      "track_id": 492,
+      "team": 1.0,
+      "speed_kmh": 19.738540979515538
+    },
+    {
+      "frame": 651,
+      "event": "high_speed_run_candidate",
+      "track_id": 492,
+      "team": 1.0,
+      "speed_kmh": 24.44953987297124
+    },
+    {
+      "frame": 653,
+      "event": "high_speed_run_candidate",
+      "track_id": 492,
+      "team": 1.0,
+      "speed_kmh": 30.36083002817925
+    },
+    {
+      "frame": 655,
+      "event": "high_speed_run_candidate",
+      "track_id": 492,
+      "team": 1.0,
+      "speed_kmh": 19.09188309203688
+    },
+    {
+      "frame": 622,
+      "event": "high_speed_run_candidate",
+      "track_id": 502,
+      "team": NaN,
+      "speed_kmh": 24.30000000000092
+    },
+    {
+      "frame": 619,
+      "event": "high_speed_run_candidate",
+      "track_id": 503,
+      "team": 2.0,
+      "speed_kmh": 25.455844122715845
+    },
+    {
+      "frame": 620,
+      "event": "high_speed_run_candidate",
+      "track_id": 503,
+      "team": 2.0,
+      "speed_kmh": 30.613232433050573
+    },
+    {
+      "frame": 627,
+      "event": "high_speed_run_candidate",
+      "track_id": 503,
+      "team": 2.0,
+      "speed_kmh": 18.64651441959076
+    },
+    {
+      "frame": 634,
+      "event": "high_speed_run_candidate",
+      "track_id": 503,
+      "team": 2.0,
+      "speed_kmh": 37.26043478007189
+    },
+    {
+      "frame": 637,
+      "event": "high_speed_run_candidate",
+      "track_id": 503,
+      "team": 2.0,
+      "speed_kmh": 36.044971910101296
+    },
+    {
+      "frame": 639,
+      "event": "high_speed_run_candidate",
+      "track_id": 503,
+      "team": 2.0,
+      "speed_kmh": 25.26420392571268
+    },
+    {
+      "frame": 650,
+      "event": "high_speed_run_candidate",
+      "track_id": 503,
+      "team": 2.0,
+      "speed_kmh": 31.896081264004675
+    },
+    {
+      "frame": 652,
+      "event": "high_speed_run_candidate",
+      "track_id": 503,
+      "team": 2.0,
+      "speed_kmh": 30.3641647341072
+    },
+    {
+      "frame": 644,
+      "event": "high_speed_run_candidate",
+      "track_id": 517,
+      "team": 1.0,
+      "speed_kmh": 32.31238152782995
+    },
+    {
+      "frame": 649,
+      "event": "high_speed_run_candidate",
+      "track_id": 521,
+      "team": NaN,
+      "speed_kmh": 25.975565441391367
+    },
+    {
+      "frame": 651,
+      "event": "high_speed_run_candidate",
+      "track_id": 521,
+      "team": NaN,
+      "speed_kmh": 39.96648596011396
+    },
+    {
+      "frame": 653,
+      "event": "high_speed_run_candidate",
+      "track_id": 521,
+      "team": NaN,
+      "speed_kmh": 35.14612354157998
+    },
+    {
+      "frame": 674,
+      "event": "high_speed_run_candidate",
+      "track_id": 527,
+      "team": 1.0,
+      "speed_kmh": 38.64763899645133
+    },
+    {
+      "frame": 686,
+      "event": "high_speed_run_candidate",
+      "track_id": 527,
+      "team": 1.0,
+      "speed_kmh": 18.98552079875604
+    },
+    {
+      "frame": 692,
+      "event": "high_speed_run_candidate",
+      "track_id": 527,
+      "team": 1.0,
+      "speed_kmh": 28.81405906844784
+    },
+    {
+      "frame": 694,
+      "event": "high_speed_run_candidate",
+      "track_id": 527,
+      "team": 1.0,
+      "speed_kmh": 28.70139369438374
+    },
+    {
+      "frame": 695,
+      "event": "high_speed_run_candidate",
+      "track_id": 527,
+      "team": 1.0,
+      "speed_kmh": 39.97661816612289
+    },
+    {
+      "frame": 690,
+      "event": "high_speed_run_candidate",
+      "track_id": 529,
+      "team": 1.0,
+      "speed_kmh": 31.81980515339473
+    },
+    {
+      "frame": 691,
+      "event": "high_speed_run_candidate",
+      "track_id": 529,
+      "team": 1.0,
+      "speed_kmh": 26.239283526803785
+    },
+    {
+      "frame": 696,
+      "event": "high_speed_run_candidate",
+      "track_id": 529,
+      "team": 1.0,
+      "speed_kmh": 35.23037325944759
+    },
+    {
+      "frame": 658,
+      "event": "high_speed_run_candidate",
+      "track_id": 530,
+      "team": 1.0,
+      "speed_kmh": 18.90000000000072
+    },
+    {
+      "frame": 674,
+      "event": "high_speed_run_candidate",
+      "track_id": 530,
+      "team": 1.0,
+      "speed_kmh": 24.23324163210508
+    },
+    {
+      "frame": 680,
+      "event": "high_speed_run_candidate",
+      "track_id": 530,
+      "team": 1.0,
+      "speed_kmh": 32.61180767758772
+    },
+    {
+      "frame": 685,
+      "event": "high_speed_run_candidate",
+      "track_id": 530,
+      "team": 1.0,
+      "speed_kmh": 39.074928022966255
+    },
+    {
+      "frame": 687,
+      "event": "high_speed_run_candidate",
+      "track_id": 530,
+      "team": 1.0,
+      "speed_kmh": 32.84691766361038
+    },
+    {
+      "frame": 692,
+      "event": "high_speed_run_candidate",
+      "track_id": 530,
+      "team": 1.0,
+      "speed_kmh": 37.552762881044885
+    },
+    {
+      "frame": 695,
+      "event": "high_speed_run_candidate",
+      "track_id": 530,
+      "team": 1.0,
+      "speed_kmh": 29.9579705587679
+    },
+    {
+      "frame": 697,
+      "event": "high_speed_run_candidate",
+      "track_id": 530,
+      "team": 1.0,
+      "speed_kmh": 25.071098898931663
+    },
+    {
+      "frame": 698,
+      "event": "high_speed_run_candidate",
+      "track_id": 530,
+      "team": 1.0,
+      "speed_kmh": 25.21606630701938
+    },
+    {
+      "frame": 658,
+      "event": "high_speed_run_candidate",
+      "track_id": 531,
+      "team": 1.0,
+      "speed_kmh": 36.91097397793748
+    },
+    {
+      "frame": 660,
+      "event": "high_speed_run_candidate",
+      "track_id": 531,
+      "team": 1.0,
+      "speed_kmh": 33.49402931867088
+    },
+    {
+      "frame": 674,
+      "event": "high_speed_run_candidate",
+      "track_id": 531,
+      "team": 1.0,
+      "speed_kmh": 28.715501040379188
+    },
+    {
+      "frame": 680,
+      "event": "high_speed_run_candidate",
+      "track_id": 531,
+      "team": 1.0,
+      "speed_kmh": 35.512955382508025
+    },
+    {
+      "frame": 686,
+      "event": "high_speed_run_candidate",
+      "track_id": 531,
+      "team": 1.0,
+      "speed_kmh": 19.46997688750557
+    },
+    {
+      "frame": 687,
+      "event": "high_speed_run_candidate",
+      "track_id": 531,
+      "team": 1.0,
+      "speed_kmh": 30.652895458667185
+    },
+    {
+      "frame": 688,
+      "event": "high_speed_run_candidate",
+      "track_id": 531,
+      "team": 1.0,
+      "speed_kmh": 34.62369131100863
+    },
+    {
+      "frame": 689,
+      "event": "high_speed_run_candidate",
+      "track_id": 531,
+      "team": 1.0,
+      "speed_kmh": 36.22430123549654
+    },
+    {
+      "frame": 690,
+      "event": "high_speed_run_candidate",
+      "track_id": 531,
+      "team": 1.0,
+      "speed_kmh": 36.73499693752554
+    },
+    {
+      "frame": 691,
+      "event": "high_speed_run_candidate",
+      "track_id": 531,
+      "team": 1.0,
+      "speed_kmh": 32.76049450176221
+    },
+    {
+      "frame": 692,
+      "event": "high_speed_run_candidate",
+      "track_id": 531,
+      "team": 1.0,
+      "speed_kmh": 21.3358852640335
+    },
+    {
+      "frame": 695,
+      "event": "high_speed_run_candidate",
+      "track_id": 531,
+      "team": 1.0,
+      "speed_kmh": 18.79255171603929
+    },
+    {
+      "frame": 696,
+      "event": "high_speed_run_candidate",
+      "track_id": 531,
+      "team": 1.0,
+      "speed_kmh": 24.18305191657964
+    },
+    {
+      "frame": 697,
+      "event": "high_speed_run_candidate",
+      "track_id": 531,
+      "team": 1.0,
+      "speed_kmh": 32.72338613285652
+    },
+    {
+      "frame": 658,
+      "event": "high_speed_run_candidate",
+      "track_id": 532,
+      "team": 1.0,
+      "speed_kmh": 18.11215061774827
+    },
+    {
+      "frame": 674,
+      "event": "high_speed_run_candidate",
+      "track_id": 532,
+      "team": 1.0,
+      "speed_kmh": 30.18691769624745
+    },
+    {
+      "frame": 680,
+      "event": "high_speed_run_candidate",
+      "track_id": 532,
+      "team": 1.0,
+      "speed_kmh": 36.46943926083869
+    },
+    {
+      "frame": 685,
+      "event": "high_speed_run_candidate",
+      "track_id": 532,
+      "team": 1.0,
+      "speed_kmh": 38.82537829822135
+    },
+    {
+      "frame": 687,
+      "event": "high_speed_run_candidate",
+      "track_id": 532,
+      "team": 1.0,
+      "speed_kmh": 24.48264691572372
+    },
+    {
+      "frame": 688,
+      "event": "high_speed_run_candidate",
+      "track_id": 532,
+      "team": 1.0,
+      "speed_kmh": 32.048088866576954
+    },
+    {
+      "frame": 692,
+      "event": "high_speed_run_candidate",
+      "track_id": 532,
+      "team": 1.0,
+      "speed_kmh": 38.71046370169179
+    },
+    {
+      "frame": 696,
+      "event": "high_speed_run_candidate",
+      "track_id": 532,
+      "team": 1.0,
+      "speed_kmh": 28.030340704314963
+    },
+    {
+      "frame": 697,
+      "event": "high_speed_run_candidate",
+      "track_id": 532,
+      "team": 1.0,
+      "speed_kmh": 32.524759799266974
+    },
+    {
+      "frame": 698,
+      "event": "high_speed_run_candidate",
+      "track_id": 532,
+      "team": 1.0,
+      "speed_kmh": 32.224524821942666
+    },
+    {
+      "frame": 658,
+      "event": "high_speed_run_candidate",
+      "track_id": 533,
+      "team": 1.0,
+      "speed_kmh": 33.40928014788681
+    },
+    {
+      "frame": 659,
+      "event": "high_speed_run_candidate",
+      "track_id": 533,
+      "team": 1.0,
+      "speed_kmh": 34.76377424849061
+    },
+    {
+      "frame": 660,
+      "event": "high_speed_run_candidate",
+      "track_id": 533,
+      "team": 1.0,
+      "speed_kmh": 38.37421008958997
+    },
+    {
+      "frame": 671,
+      "event": "high_speed_run_candidate",
+      "track_id": 533,
+      "team": 1.0,
+      "speed_kmh": 35.42160357747811
+    },
+    {
+      "frame": 674,
+      "event": "high_speed_run_candidate",
+      "track_id": 533,
+      "team": 1.0,
+      "speed_kmh": 22.55393535505488
+    },
+    {
+      "frame": 675,
+      "event": "high_speed_run_candidate",
+      "track_id": 533,
+      "team": 1.0,
+      "speed_kmh": 37.60664834839724
+    },
+    {
+      "frame": 682,
+      "event": "high_speed_run_candidate",
+      "track_id": 533,
+      "team": 1.0,
+      "speed_kmh": 35.14612354158
+    },
+    {
+      "frame": 685,
+      "event": "high_speed_run_candidate",
+      "track_id": 533,
+      "team": 1.0,
+      "speed_kmh": 34.06948781534582
+    },
+    {
+      "frame": 660,
+      "event": "high_speed_run_candidate",
+      "track_id": 534,
+      "team": 1.0,
+      "speed_kmh": 21.74948275247006
+    },
+    {
+      "frame": 661,
+      "event": "high_speed_run_candidate",
+      "track_id": 534,
+      "team": 1.0,
+      "speed_kmh": 31.70504691685571
+    },
+    {
+      "frame": 674,
+      "event": "high_speed_run_candidate",
+      "track_id": 534,
+      "team": 1.0,
+      "speed_kmh": 19.260841103129174
+    },
+    {
+      "frame": 680,
+      "event": "high_speed_run_candidate",
+      "track_id": 534,
+      "team": 1.0,
+      "speed_kmh": 27.37243138634205
+    },
+    {
+      "frame": 685,
+      "event": "high_speed_run_candidate",
+      "track_id": 534,
+      "team": 1.0,
+      "speed_kmh": 34.30641339458288
+    },
+    {
+      "frame": 687,
+      "event": "high_speed_run_candidate",
+      "track_id": 534,
+      "team": 1.0,
+      "speed_kmh": 36.91097397793818
+    },
+    {
+      "frame": 689,
+      "event": "high_speed_run_candidate",
+      "track_id": 534,
+      "team": 1.0,
+      "speed_kmh": 39.53858874567981
+    },
+    {
+      "frame": 690,
+      "event": "high_speed_run_candidate",
+      "track_id": 534,
+      "team": 1.0,
+      "speed_kmh": 36.23547985055538
+    },
+    {
+      "frame": 691,
+      "event": "high_speed_run_candidate",
+      "track_id": 534,
+      "team": 1.0,
+      "speed_kmh": 28.98223593858814
+    },
+    {
+      "frame": 692,
+      "event": "high_speed_run_candidate",
+      "track_id": 534,
+      "team": 1.0,
+      "speed_kmh": 33.878754404494124
+    },
+    {
+      "frame": 694,
+      "event": "high_speed_run_candidate",
+      "track_id": 534,
+      "team": 1.0,
+      "speed_kmh": 25.740629362935287
+    },
+    {
+      "frame": 695,
+      "event": "high_speed_run_candidate",
+      "track_id": 534,
+      "team": 1.0,
+      "speed_kmh": 37.97104159751215
+    },
+    {
+      "frame": 696,
+      "event": "high_speed_run_candidate",
+      "track_id": 534,
+      "team": 1.0,
+      "speed_kmh": 39.3125934021149
+    },
+    {
+      "frame": 697,
+      "event": "high_speed_run_candidate",
+      "track_id": 534,
+      "team": 1.0,
+      "speed_kmh": 31.189902212093905
+    },
+    {
+      "frame": 698,
+      "event": "high_speed_run_candidate",
+      "track_id": 534,
+      "team": 1.0,
+      "speed_kmh": 21.89794510907377
+    },
+    {
+      "frame": 659,
+      "event": "high_speed_run_candidate",
+      "track_id": 536,
+      "team": 1.0,
+      "speed_kmh": 32.62422412870528
+    },
+    {
+      "frame": 676,
+      "event": "high_speed_run_candidate",
+      "track_id": 536,
+      "team": 1.0,
+      "speed_kmh": 38.0269969889814
+    },
+    {
+      "frame": 684,
+      "event": "high_speed_run_candidate",
+      "track_id": 536,
+      "team": 1.0,
+      "speed_kmh": 22.355536227073447
+    },
+    {
+      "frame": 685,
+      "event": "high_speed_run_candidate",
+      "track_id": 536,
+      "team": 1.0,
+      "speed_kmh": 22.5539353550551
+    },
+    {
+      "frame": 697,
+      "event": "high_speed_run_candidate",
+      "track_id": 536,
+      "team": 1.0,
+      "speed_kmh": 23.555254190944154
+    },
+    {
+      "frame": 680,
+      "event": "high_speed_run_candidate",
+      "track_id": 581,
+      "team": 1.0,
+      "speed_kmh": 34.49478221412645
+    },
+    {
+      "frame": 688,
+      "event": "high_speed_run_candidate",
+      "track_id": 581,
+      "team": 1.0,
+      "speed_kmh": 25.006399181009822
+    },
+    {
+      "frame": 689,
+      "event": "high_speed_run_candidate",
+      "track_id": 581,
+      "team": 1.0,
+      "speed_kmh": 24.216523284732617
+    },
+    {
+      "frame": 690,
+      "event": "high_speed_run_candidate",
+      "track_id": 581,
+      "team": 1.0,
+      "speed_kmh": 24.183051916579867
+    },
+    {
+      "frame": 691,
+      "event": "high_speed_run_candidate",
+      "track_id": 581,
+      "team": 1.0,
+      "speed_kmh": 22.768399153212453
+    },
+    {
+      "frame": 695,
+      "event": "high_speed_run_candidate",
+      "track_id": 581,
+      "team": 1.0,
+      "speed_kmh": 19.799999999999898
+    },
+    {
+      "frame": 697,
+      "event": "high_speed_run_candidate",
+      "track_id": 581,
+      "team": 1.0,
+      "speed_kmh": 24.44953987297068
+    },
+    {
+      "frame": 692,
+      "event": "high_speed_run_candidate",
+      "track_id": 586,
+      "team": 1.0,
+      "speed_kmh": 22.34194485715131
+    },
+    {
+      "frame": 698,
+      "event": "high_speed_run_candidate",
+      "track_id": 586,
+      "team": 1.0,
+      "speed_kmh": 27.5347053734008
+    },
+    {
+      "frame": 688,
+      "event": "high_speed_run_candidate",
+      "track_id": 597,
+      "team": 1.0,
+      "speed_kmh": 22.94558781116748
+    },
+    {
+      "frame": 690,
+      "event": "high_speed_run_candidate",
+      "track_id": 597,
+      "team": 1.0,
+      "speed_kmh": 29.02412789387488
+    },
+    {
+      "frame": 691,
+      "event": "high_speed_run_candidate",
+      "track_id": 597,
+      "team": 1.0,
+      "speed_kmh": 23.760681808399628
+    },
+    {
+      "frame": 697,
+      "event": "high_speed_run_candidate",
+      "track_id": 597,
+      "team": 1.0,
+      "speed_kmh": 27.13466417702616
+    },
+    {
+      "frame": 698,
+      "event": "high_speed_run_candidate",
+      "track_id": 597,
+      "team": 1.0,
+      "speed_kmh": 24.5652193151214
+    },
+    {
+      "frame": 684,
+      "event": "high_speed_run_candidate",
+      "track_id": 600,
+      "team": NaN,
+      "speed_kmh": 31.189902212094783
+    },
+    {
+      "frame": 685,
+      "event": "high_speed_run_candidate",
+      "track_id": 600,
+      "team": NaN,
+      "speed_kmh": 20.22498454881917
+    },
+    {
+      "frame": 688,
+      "event": "high_speed_run_candidate",
+      "track_id": 600,
+      "team": NaN,
+      "speed_kmh": 37.87759892073417
+    },
+    {
+      "frame": 689,
+      "event": "high_speed_run_candidate",
+      "track_id": 600,
+      "team": NaN,
+      "speed_kmh": 34.36538956566593
+    },
+    {
+      "frame": 689,
+      "event": "high_speed_run_candidate",
+      "track_id": 607,
+      "team": NaN,
+      "speed_kmh": 19.07065809037533
+    },
+    {
+      "frame": 690,
+      "event": "high_speed_run_candidate",
+      "track_id": 607,
+      "team": NaN,
+      "speed_kmh": 18.53213425377692
+    },
+    {
+      "frame": 695,
+      "event": "high_speed_run_candidate",
+      "track_id": 607,
+      "team": NaN,
+      "speed_kmh": 18.02248595505064
+    },
+    {
+      "frame": 697,
+      "event": "high_speed_run_candidate",
+      "track_id": 607,
+      "team": NaN,
+      "speed_kmh": 37.17337757051407
+    },
+    {
+      "frame": 698,
+      "event": "high_speed_run_candidate",
+      "track_id": 607,
+      "team": NaN,
+      "speed_kmh": 31.55138665732473
+    },
+    {
+      "frame": 696,
+      "event": "high_speed_run_candidate",
+      "track_id": 611,
+      "team": NaN,
+      "speed_kmh": 31.50321412173681
+    },
+    {
+      "frame": 697,
+      "event": "high_speed_run_candidate",
+      "track_id": 611,
+      "team": NaN,
+      "speed_kmh": 39.69193872816003
+    },
+    {
+      "frame": 696,
+      "event": "high_speed_run_candidate",
+      "track_id": 615,
+      "team": 1.0,
+      "speed_kmh": 36.14595413044181
+    },
+    {
+      "frame": 717,
+      "event": "high_speed_run_candidate",
+      "track_id": 624,
+      "team": 1.0,
+      "speed_kmh": 29.42600890368906
+    },
+    {
+      "frame": 718,
+      "event": "high_speed_run_candidate",
+      "track_id": 624,
+      "team": 1.0,
+      "speed_kmh": 20.778113485107067
+    },
+    {
+      "frame": 719,
+      "event": "high_speed_run_candidate",
+      "track_id": 624,
+      "team": 1.0,
+      "speed_kmh": 22.998478210525093
+    },
+    {
+      "frame": 722,
+      "event": "high_speed_run_candidate",
+      "track_id": 624,
+      "team": 1.0,
+      "speed_kmh": 26.170594185077256
+    },
+    {
+      "frame": 726,
+      "event": "high_speed_run_candidate",
+      "track_id": 624,
+      "team": 1.0,
+      "speed_kmh": 33.318997959122285
+    },
+    {
+      "frame": 712,
+      "event": "high_speed_run_candidate",
+      "track_id": 627,
+      "team": 1.0,
+      "speed_kmh": 39.44629260145999
+    },
+    {
+      "frame": 714,
+      "event": "high_speed_run_candidate",
+      "track_id": 627,
+      "team": 1.0,
+      "speed_kmh": 29.02412789387488
+    },
+    {
+      "frame": 723,
+      "event": "high_speed_run_candidate",
+      "track_id": 627,
+      "team": 1.0,
+      "speed_kmh": 32.76049450176247
+    },
+    {
+      "frame": 724,
+      "event": "high_speed_run_candidate",
+      "track_id": 627,
+      "team": 1.0,
+      "speed_kmh": 38.37421008958977
+    },
+    {
+      "frame": 726,
+      "event": "high_speed_run_candidate",
+      "track_id": 627,
+      "team": 1.0,
+      "speed_kmh": 27.78362827277983
+    },
+    {
+      "frame": 734,
+      "event": "high_speed_run_candidate",
+      "track_id": 627,
+      "team": 1.0,
+      "speed_kmh": 22.490998199279616
+    },
+    {
+      "frame": 723,
+      "event": "high_speed_run_candidate",
+      "track_id": 629,
+      "team": 1.0,
+      "speed_kmh": 34.49478221412684
+    },
+    {
+      "frame": 789,
+      "event": "high_speed_run_candidate",
+      "track_id": 630,
+      "team": 1.0,
+      "speed_kmh": 18.02248595504968
+    },
+    {
+      "frame": 791,
+      "event": "high_speed_run_candidate",
+      "track_id": 630,
+      "team": 1.0,
+      "speed_kmh": 27.95800422061527
+    },
+    {
+      "frame": 792,
+      "event": "high_speed_run_candidate",
+      "track_id": 630,
+      "team": 1.0,
+      "speed_kmh": 20.71955597979876
+    },
+    {
+      "frame": 793,
+      "event": "high_speed_run_candidate",
+      "track_id": 630,
+      "team": 1.0,
+      "speed_kmh": 38.18376618407366
+    },
+    {
+      "frame": 800,
+      "event": "high_speed_run_candidate",
+      "track_id": 630,
+      "team": 1.0,
+      "speed_kmh": 38.32140394087895
+    },
+    {
+      "frame": 765,
+      "event": "high_speed_run_candidate",
+      "track_id": 631,
+      "team": 1.0,
+      "speed_kmh": 37.8963058885693
+    },
+    {
+      "frame": 779,
+      "event": "high_speed_run_candidate",
+      "track_id": 631,
+      "team": 1.0,
+      "speed_kmh": 18.35647024893426
+    },
+    {
+      "frame": 784,
+      "event": "high_speed_run_candidate",
+      "track_id": 631,
+      "team": 1.0,
+      "speed_kmh": 22.998478210524848
+    },
+    {
+      "frame": 785,
+      "event": "high_speed_run_candidate",
+      "track_id": 631,
+      "team": 1.0,
+      "speed_kmh": 22.94558781116725
+    },
+    {
+      "frame": 790,
+      "event": "high_speed_run_candidate",
+      "track_id": 631,
+      "team": 1.0,
+      "speed_kmh": 22.57188516717209
+    },
+    {
+      "frame": 792,
+      "event": "high_speed_run_candidate",
+      "track_id": 631,
+      "team": 1.0,
+      "speed_kmh": 32.46243983436891
+    },
+    {
+      "frame": 793,
+      "event": "high_speed_run_candidate",
+      "track_id": 631,
+      "team": 1.0,
+      "speed_kmh": 32.41249758966434
+    },
+    {
+      "frame": 737,
+      "event": "high_speed_run_candidate",
+      "track_id": 634,
+      "team": 1.0,
+      "speed_kmh": 24.31666095499129
+    },
+    {
+      "frame": 740,
+      "event": "high_speed_run_candidate",
+      "track_id": 634,
+      "team": 1.0,
+      "speed_kmh": 21.392755783208507
+    },
+    {
+      "frame": 747,
+      "event": "high_speed_run_candidate",
+      "track_id": 634,
+      "team": 1.0,
+      "speed_kmh": 32.038609520389606
+    },
+    {
+      "frame": 759,
+      "event": "high_speed_run_candidate",
+      "track_id": 634,
+      "team": 1.0,
+      "speed_kmh": 22.35553622707373
+    },
+    {
+      "frame": 760,
+      "event": "high_speed_run_candidate",
+      "track_id": 634,
+      "team": 1.0,
+      "speed_kmh": 21.068459839296
+    },
+    {
+      "frame": 762,
+      "event": "high_speed_run_candidate",
+      "track_id": 634,
+      "team": 1.0,
+      "speed_kmh": 35.45588808646607
+    },
+    {
+      "frame": 763,
+      "event": "high_speed_run_candidate",
+      "track_id": 634,
+      "team": 1.0,
+      "speed_kmh": 33.87875440449362
+    },
+    {
+      "frame": 777,
+      "event": "high_speed_run_candidate",
+      "track_id": 634,
+      "team": 1.0,
+      "speed_kmh": 31.033691369220097
+    },
+    {
+      "frame": 781,
+      "event": "high_speed_run_candidate",
+      "track_id": 634,
+      "team": 1.0,
+      "speed_kmh": 33.44562751691191
+    },
+    {
+      "frame": 782,
+      "event": "high_speed_run_candidate",
+      "track_id": 634,
+      "team": 1.0,
+      "speed_kmh": 30.038974682901355
+    },
+    {
+      "frame": 785,
+      "event": "high_speed_run_candidate",
+      "track_id": 634,
+      "team": 1.0,
+      "speed_kmh": 19.386593305683803
+    },
+    {
+      "frame": 786,
+      "event": "high_speed_run_candidate",
+      "track_id": 634,
+      "team": 1.0,
+      "speed_kmh": 28.0303407043156
+    },
+    {
+      "frame": 791,
+      "event": "high_speed_run_candidate",
+      "track_id": 634,
+      "team": 1.0,
+      "speed_kmh": 25.455844122715803
+    },
+    {
+      "frame": 792,
+      "event": "high_speed_run_candidate",
+      "track_id": 634,
+      "team": 1.0,
+      "speed_kmh": 30.652895458667807
+    },
+    {
+      "frame": 793,
+      "event": "high_speed_run_candidate",
+      "track_id": 634,
+      "team": 1.0,
+      "speed_kmh": 26.999999999999744
+    },
+    {
+      "frame": 740,
+      "event": "high_speed_run_candidate",
+      "track_id": 644,
+      "team": 1.0,
+      "speed_kmh": 22.49999999999999
+    },
+    {
+      "frame": 742,
+      "event": "high_speed_run_candidate",
+      "track_id": 644,
+      "team": 1.0,
+      "speed_kmh": 21.67487024182604
+    },
+    {
+      "frame": 745,
+      "event": "high_speed_run_candidate",
+      "track_id": 644,
+      "team": 1.0,
+      "speed_kmh": 28.98223593858819
+    },
+    {
+      "frame": 759,
+      "event": "high_speed_run_candidate",
+      "track_id": 644,
+      "team": 1.0,
+      "speed_kmh": 22.571885167172034
+    },
+    {
+      "frame": 771,
+      "event": "high_speed_run_candidate",
+      "track_id": 644,
+      "team": 1.0,
+      "speed_kmh": 31.072817702937748
+    },
+    {
+      "frame": 777,
+      "event": "high_speed_run_candidate",
+      "track_id": 644,
+      "team": 1.0,
+      "speed_kmh": 25.598632775990257
+    },
+    {
+      "frame": 778,
+      "event": "high_speed_run_candidate",
+      "track_id": 644,
+      "team": 1.0,
+      "speed_kmh": 26.100000000000232
+    },
+    {
+      "frame": 780,
+      "event": "high_speed_run_candidate",
+      "track_id": 644,
+      "team": 1.0,
+      "speed_kmh": 18.089776118017184
+    },
+    {
+      "frame": 786,
+      "event": "high_speed_run_candidate",
+      "track_id": 644,
+      "team": 1.0,
+      "speed_kmh": 26.100000000000232
+    },
+    {
+      "frame": 788,
+      "event": "high_speed_run_candidate",
+      "track_id": 644,
+      "team": 1.0,
+      "speed_kmh": 18.921416437465844
+    },
+    {
+      "frame": 790,
+      "event": "high_speed_run_candidate",
+      "track_id": 644,
+      "team": 1.0,
+      "speed_kmh": 22.57188516717239
+    },
+    {
+      "frame": 740,
+      "event": "high_speed_run_candidate",
+      "track_id": 648,
+      "team": 1.0,
+      "speed_kmh": 29.699999999999847
+    },
+    {
+      "frame": 746,
+      "event": "high_speed_run_candidate",
+      "track_id": 648,
+      "team": 1.0,
+      "speed_kmh": 33.92653828494722
+    },
+    {
+      "frame": 754,
+      "event": "high_speed_run_candidate",
+      "track_id": 670,
+      "team": NaN,
+      "speed_kmh": 26.46979410573496
+    },
+    {
+      "frame": 759,
+      "event": "high_speed_run_candidate",
+      "track_id": 670,
+      "team": NaN,
+      "speed_kmh": 32.41249758966434
+    },
+    {
+      "frame": 761,
+      "event": "high_speed_run_candidate",
+      "track_id": 670,
+      "team": NaN,
+      "speed_kmh": 38.06691476860204
+    },
+    {
+      "frame": 764,
+      "event": "high_speed_run_candidate",
+      "track_id": 670,
+      "team": 2.0,
+      "speed_kmh": 27.41678318111008
+    },
+    {
+      "frame": 776,
+      "event": "high_speed_run_candidate",
+      "track_id": 670,
+      "team": 2.0,
+      "speed_kmh": 38.4638141634445
+    },
+    {
+      "frame": 748,
+      "event": "high_speed_run_candidate",
+      "track_id": 680,
+      "team": 1.0,
+      "speed_kmh": 29.822474746406087
+    },
+    {
+      "frame": 749,
+      "event": "high_speed_run_candidate",
+      "track_id": 680,
+      "team": 1.0,
+      "speed_kmh": 21.1834841326914
+    },
+    {
+      "frame": 750,
+      "event": "high_speed_run_candidate",
+      "track_id": 680,
+      "team": 1.0,
+      "speed_kmh": 25.582806726393336
+    },
+    {
+      "frame": 753,
+      "event": "high_speed_run_candidate",
+      "track_id": 680,
+      "team": 1.0,
+      "speed_kmh": 24.01499531542745
+    },
+    {
+      "frame": 754,
+      "event": "high_speed_run_candidate",
+      "track_id": 680,
+      "team": 2.0,
+      "speed_kmh": 28.417776126924544
+    },
+    {
+      "frame": 759,
+      "event": "high_speed_run_candidate",
+      "track_id": 680,
+      "team": 1.0,
+      "speed_kmh": 28.030340704315364
+    },
+    {
+      "frame": 765,
+      "event": "high_speed_run_candidate",
+      "track_id": 680,
+      "team": 1.0,
+      "speed_kmh": 19.4699768875054
+    },
+    {
+      "frame": 766,
+      "event": "high_speed_run_candidate",
+      "track_id": 680,
+      "team": 1.0,
+      "speed_kmh": 33.87875440449369
+    },
+    {
+      "frame": 767,
+      "event": "high_speed_run_candidate",
+      "track_id": 680,
+      "team": 1.0,
+      "speed_kmh": 34.3889517141771
+    },
+    {
+      "frame": 771,
+      "event": "high_speed_run_candidate",
+      "track_id": 680,
+      "team": 1.0,
+      "speed_kmh": 38.79407171205429
+    },
+    {
+      "frame": 780,
+      "event": "high_speed_run_candidate",
+      "track_id": 680,
+      "team": 1.0,
+      "speed_kmh": 22.78618002210988
+    },
+    {
+      "frame": 781,
+      "event": "high_speed_run_candidate",
+      "track_id": 680,
+      "team": 1.0,
+      "speed_kmh": 19.26084110312944
+    },
+    {
+      "frame": 785,
+      "event": "high_speed_run_candidate",
+      "track_id": 680,
+      "team": 1.0,
+      "speed_kmh": 23.34801918793105
+    },
+    {
+      "frame": 772,
+      "event": "high_speed_run_candidate",
+      "track_id": 717,
+      "team": 1.0,
+      "speed_kmh": 22.78618002210988
+    },
+    {
+      "frame": 775,
+      "event": "high_speed_run_candidate",
+      "track_id": 717,
+      "team": 1.0,
+      "speed_kmh": 28.24623868765555
+    },
+    {
+      "frame": 779,
+      "event": "high_speed_run_candidate",
+      "track_id": 717,
+      "team": 1.0,
+      "speed_kmh": 21.33588526403341
+    },
+    {
+      "frame": 780,
+      "event": "high_speed_run_candidate",
+      "track_id": 717,
+      "team": 1.0,
+      "speed_kmh": 19.26084110312921
+    },
+    {
+      "frame": 787,
+      "event": "high_speed_run_candidate",
+      "track_id": 717,
+      "team": 1.0,
+      "speed_kmh": 28.260573242593523
+    },
+    {
+      "frame": 790,
+      "event": "high_speed_run_candidate",
+      "track_id": 717,
+      "team": 1.0,
+      "speed_kmh": 22.264770378335417
+    },
+    {
+      "frame": 791,
+      "event": "high_speed_run_candidate",
+      "track_id": 717,
+      "team": 1.0,
+      "speed_kmh": 31.81980515339472
+    },
+    {
+      "frame": 777,
+      "event": "high_speed_run_candidate",
+      "track_id": 719,
+      "team": 1.0,
+      "speed_kmh": 38.066914768602
+    },
+    {
+      "frame": 783,
+      "event": "high_speed_run_candidate",
+      "track_id": 719,
+      "team": 1.0,
+      "speed_kmh": 18.02248595505032
+    },
+    {
+      "frame": 785,
+      "event": "high_speed_run_candidate",
+      "track_id": 719,
+      "team": 1.0,
+      "speed_kmh": 32.76049450176247
+    },
+    {
+      "frame": 791,
+      "event": "high_speed_run_candidate",
+      "track_id": 719,
+      "team": 1.0,
+      "speed_kmh": 28.1312992945582
+    },
+    {
+      "frame": 792,
+      "event": "high_speed_run_candidate",
+      "track_id": 719,
+      "team": 1.0,
+      "speed_kmh": 20.77811348510704
+    },
+    {
+      "frame": 793,
+      "event": "high_speed_run_candidate",
+      "track_id": 719,
+      "team": 1.0,
+      "speed_kmh": 24.316660954991608
+    },
+    {
+      "frame": 790,
+      "event": "high_speed_run_candidate",
+      "track_id": 735,
+      "team": 1.0,
+      "speed_kmh": 25.103386225766403
+    },
+    {
+      "frame": 791,
+      "event": "high_speed_run_candidate",
+      "track_id": 735,
+      "team": 1.0,
+      "speed_kmh": 32.5123053627391
+    },
+    {
+      "frame": 792,
+      "event": "high_speed_run_candidate",
+      "track_id": 735,
+      "team": 1.0,
+      "speed_kmh": 22.66142096162552
+    },
+    {
+      "frame": 793,
+      "event": "high_speed_run_candidate",
+      "track_id": 735,
+      "team": 1.0,
+      "speed_kmh": 26.2392835268038
+    },
+    {
+      "frame": 823,
+      "event": "high_speed_run_candidate",
+      "track_id": 740,
+      "team": 1.0,
+      "speed_kmh": 34.247335662792395
+    },
+    {
+      "frame": 825,
+      "event": "high_speed_run_candidate",
+      "track_id": 740,
+      "team": 1.0,
+      "speed_kmh": 30.56026832342917
+    },
+    {
+      "frame": 808,
+      "event": "high_speed_run_candidate",
+      "track_id": 745,
+      "team": 2.0,
+      "speed_kmh": 38.71046370169243
+    },
+    {
+      "frame": 829,
+      "event": "high_speed_run_candidate",
+      "track_id": 745,
+      "team": 2.0,
+      "speed_kmh": 21.183484132691618
+    },
+    {
+      "frame": 806,
+      "event": "high_speed_run_candidate",
+      "track_id": 755,
+      "team": 1.0,
+      "speed_kmh": 25.408069584287404
+    },
+    {
+      "frame": 808,
+      "event": "high_speed_run_candidate",
+      "track_id": 759,
+      "team": 1.0,
+      "speed_kmh": 20.71955597979824
+    },
+    {
+      "frame": 809,
+      "event": "high_speed_run_candidate",
+      "track_id": 759,
+      "team": 1.0,
+      "speed_kmh": 18.90000000000072
+    },
+    {
+      "frame": 836,
+      "event": "high_speed_run_candidate",
+      "track_id": 759,
+      "team": 1.0,
+      "speed_kmh": 20.87534430853812
+    },
+    {
+      "frame": 838,
+      "event": "high_speed_run_candidate",
+      "track_id": 759,
+      "team": 1.0,
+      "speed_kmh": 22.786180022109896
+    },
+    {
+      "frame": 841,
+      "event": "high_speed_run_candidate",
+      "track_id": 759,
+      "team": 1.0,
+      "speed_kmh": 22.571885167172017
+    },
+    {
+      "frame": 844,
+      "event": "high_speed_run_candidate",
+      "track_id": 759,
+      "team": 1.0,
+      "speed_kmh": 18.022485955050964
+    },
+    {
+      "frame": 854,
+      "event": "high_speed_run_candidate",
+      "track_id": 762,
+      "team": 1.0,
+      "speed_kmh": 31.03369136921985
+    },
+    {
+      "frame": 858,
+      "event": "high_speed_run_candidate",
+      "track_id": 762,
+      "team": 1.0,
+      "speed_kmh": 35.00757060979849
+    },
+    {
+      "frame": 859,
+      "event": "high_speed_run_candidate",
+      "track_id": 762,
+      "team": 1.0,
+      "speed_kmh": 23.3653589743449
+    },
+    {
+      "frame": 820,
+      "event": "high_speed_run_candidate",
+      "track_id": 766,
+      "team": 1.0,
+      "speed_kmh": 30.61323243305123
+    },
+    {
+      "frame": 825,
+      "event": "high_speed_run_candidate",
+      "track_id": 766,
+      "team": 1.0,
+      "speed_kmh": 29.30187707298016
+    },
+    {
+      "frame": 852,
+      "event": "high_speed_run_candidate",
+      "track_id": 766,
+      "team": 1.0,
+      "speed_kmh": 36.17955223603507
+    },
+    {
+      "frame": 862,
+      "event": "high_speed_run_candidate",
+      "track_id": 766,
+      "team": 1.0,
+      "speed_kmh": 25.61444904736424
+    },
+    {
+      "frame": 874,
+      "event": "high_speed_run_candidate",
+      "track_id": 766,
+      "team": 1.0,
+      "speed_kmh": 26.46979410573493
+    },
+    {
+      "frame": 825,
+      "event": "high_speed_run_candidate",
+      "track_id": 773,
+      "team": 1.0,
+      "speed_kmh": 19.738540979515538
+    },
+    {
+      "frame": 847,
+      "event": "high_speed_run_candidate",
+      "track_id": 792,
+      "team": 1.0,
+      "speed_kmh": 29.917386249470308
+    },
+    {
+      "frame": 860,
+      "event": "high_speed_run_candidate",
+      "track_id": 792,
+      "team": 1.0,
+      "speed_kmh": 38.85926530442885
+    },
+    {
+      "frame": 861,
+      "event": "high_speed_run_candidate",
+      "track_id": 792,
+      "team": 1.0,
+      "speed_kmh": 35.66090296108628
+    },
+    {
+      "frame": 869,
+      "event": "high_speed_run_candidate",
+      "track_id": 792,
+      "team": 1.0,
+      "speed_kmh": 31.921466131742463
+    },
+    {
+      "frame": 875,
+      "event": "high_speed_run_candidate",
+      "track_id": 792,
+      "team": 1.0,
+      "speed_kmh": 36.99864862396996
+    },
+    {
+      "frame": 878,
+      "event": "high_speed_run_candidate",
+      "track_id": 792,
+      "team": 1.0,
+      "speed_kmh": 35.05381576947104
+    },
+    {
+      "frame": 880,
+      "event": "high_speed_run_candidate",
+      "track_id": 792,
+      "team": 1.0,
+      "speed_kmh": 22.282953125652
+    },
+    {
+      "frame": 882,
+      "event": "high_speed_run_candidate",
+      "track_id": 792,
+      "team": 1.0,
+      "speed_kmh": 31.61550252645003
+    },
+    {
+      "frame": 853,
+      "event": "high_speed_run_candidate",
+      "track_id": 812,
+      "team": 1.0,
+      "speed_kmh": 39.04382153427091
+    },
+    {
+      "frame": 854,
+      "event": "high_speed_run_candidate",
+      "track_id": 812,
+      "team": 1.0,
+      "speed_kmh": 25.40806958428681
+    },
+    {
+      "frame": 868,
+      "event": "high_speed_run_candidate",
+      "track_id": 812,
+      "team": 1.0,
+      "speed_kmh": 35.14612354157998
+    },
+    {
+      "frame": 875,
+      "event": "high_speed_run_candidate",
+      "track_id": 812,
+      "team": 1.0,
+      "speed_kmh": 20.22498454881985
+    },
+    {
+      "frame": 879,
+      "event": "high_speed_run_candidate",
+      "track_id": 812,
+      "team": 1.0,
+      "speed_kmh": 25.97556544139106
+    },
+    {
+      "frame": 882,
+      "event": "high_speed_run_candidate",
+      "track_id": 812,
+      "team": 1.0,
+      "speed_kmh": 27.47580754045222
+    },
+    {
+      "frame": 867,
+      "event": "high_speed_run_candidate",
+      "track_id": 814,
+      "team": 1.0,
+      "speed_kmh": 23.215955983868035
+    },
+    {
+      "frame": 876,
+      "event": "high_speed_run_candidate",
+      "track_id": 814,
+      "team": 1.0,
+      "speed_kmh": 20.87869727736864
+    },
+    {
+      "frame": 883,
+      "event": "high_speed_run_candidate",
+      "track_id": 814,
+      "team": 1.0,
+      "speed_kmh": 21.73551241632009
+    }
+  ]
+}
